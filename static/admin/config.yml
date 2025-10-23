@@ -4,6 +4,8 @@ backend:
   name: github            # use local git backend for Sveltia/Decap with proxy
   repo: vinylen2/intric-support
   branch: main
+  base_url: https://api.netlify.com
+  site_id: 30dbaea2-b1e7-4ec1-9e3c-baae73c905e6
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
