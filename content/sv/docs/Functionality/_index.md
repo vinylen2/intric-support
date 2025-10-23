@@ -1,8 +1,10 @@
 ---
-title: "Kärnfunktioner i Intric"
+title: Kärnfunktioner i Intric
 weight: 3
+meta:
+  path: Functionality/_index
+slug: _index
 ---
-
 ### AI-assistenter
 Assistenter är kärnan i Intric-plattformen – anpassningsbara AI-verktyg med ett chattgränssnitt som låter användare:
 

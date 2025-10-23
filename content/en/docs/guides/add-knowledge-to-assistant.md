@@ -1,8 +1,9 @@
 ---
-title: "Add Knowledge to an Assistant"
+title: Add Knowledge to an Assistant
 weight: 3
+meta:
+  path: guides/add-knowledge-to-assistant
 ---
-
 ### Step 1: Prepare Knowledge in Your Space
 Choose one or more methods under **Knowledge** (left menu):
 

@@ -1,8 +1,10 @@
 ---
-title: "Guides"
+title: Guides
 weight: 4
+meta:
+  path: guides/_index
+slug: _index
 ---
-
 This section contains **step-by-step guides** that help you make the most of Intric’s functionality areas — from creating your first assistant to integrating knowledge sources and managing collaboration.
 
 Each guide focuses on a specific use case or workflow, making it easy to follow along and apply directly in your organisation.

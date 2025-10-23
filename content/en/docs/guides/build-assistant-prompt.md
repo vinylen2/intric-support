@@ -1,8 +1,9 @@
 ---
-title: "Build an Assistant — Focus on the Prompt"
+title: Build an Assistant — Focus on the Prompt
 weight: 2
+meta:
+  path: guides/build-assistant-prompt
 ---
-
 ### Step 1: Create an Assistant
 1. Go to **Assistants** (left menu).
 2. Click **Create Assistant** (blue button, top-right).

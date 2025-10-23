@@ -1,8 +1,9 @@
 ---
-title: "How to Add Knowledge to a Space"
+title: How to Add Knowledge to a Space
 weight: 1
+meta:
+  path: guides/add-knowledge-to-space
 ---
-
 ### Prerequisites
 To add knowledge to a Space, you need to have the **Space Admin** or **Space Editor** role.  
 **Space Viewers** can only use existing assistants and cannot connect new knowledge sources.

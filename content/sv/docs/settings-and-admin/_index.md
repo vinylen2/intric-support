@@ -1,8 +1,10 @@
 ---
-title: "Admin och inställningar"
+title: Admin och inställningar
 weight: 2
+meta:
+  path: settings-and-admin/_index
+slug: _index
 ---
-
 Det här avsnittet beskriver de administrativa funktionerna och konfigurationsalternativen som finns för systemadministratörer och creators i Intric.
 
 Här får du lära dig att:

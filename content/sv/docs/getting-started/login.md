@@ -1,8 +1,9 @@
 ---
-title: "Första inloggningen"
+title: Första inloggningen
 weight: 1
+meta:
+  path: getting-started/login
 ---
-
 ### Så loggar du in
 Inloggningen till Intric hanteras via din organisations **SSO-system (Single Sign-On)** – vanligtvis kopplat till **Microsoft Entra ID** eller **Active Directory**.  
 Många organisationer har även **MFA (multifaktorsautentisering)** aktiverat för extra säkerhet.  

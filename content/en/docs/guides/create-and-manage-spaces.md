@@ -1,8 +1,9 @@
 ---
-title: "Create and Manage Spaces"
+title: Create and Manage Spaces
 weight: 5
+meta:
+  path: guides/create-and-manage-spaces
 ---
-
 ### Step 1: Create a Space
 1. Open **Spaces** (top menu).
 2. Click **Create Space** (blue button).

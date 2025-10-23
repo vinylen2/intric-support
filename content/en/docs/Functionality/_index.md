@@ -1,8 +1,10 @@
 ---
-title: "Core Features in Intric"
+title: Core Features in Intric
 weight: 3
+meta:
+  path: Functionality/_index
+slug: _index
 ---
-
 ### AI Assistants
 Assistants are the main feature of the Intric platform — customizable AI tools with a chat interface that allow users to:
 

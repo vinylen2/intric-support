@@ -1,8 +1,9 @@
 ---
-title: "Data Management and Integrations"
+title: Data Management and Integrations
 weight: 3
+meta:
+  path: settings-and-admin/data-and-integrations
 ---
-
 ## Data Management and Integrations
 
 ### Activating Integrations

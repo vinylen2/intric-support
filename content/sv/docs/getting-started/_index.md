@@ -1,9 +1,11 @@
 ---
-title: "Introduktion till Intric"
-description: ""
+title: Introduktion till Intric
+description: ''
 weight: 1
+meta:
+  path: getting-started/_index
+slug: _index
 ---
-
 ## Välkommen till Intric
 
 Intric är en säker och skalbar AI-plattform för organisationer som vill göra artificiell intelligens tillgänglig, regelefterlevande och samarbetande.  

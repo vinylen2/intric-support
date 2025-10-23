@@ -1,8 +1,9 @@
 ---
-title: "Samarbete"
+title: Samarbete
 weight: 4
+meta:
+  path: Functionality/collaboration
 ---
-
 Intric är byggt för teamwork – med säker, rollbaserad samverkan genom **Spaces** och delade mallar.
 
 ### Spaces (arbetsytor)

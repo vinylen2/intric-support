@@ -1,8 +1,9 @@
 ---
-title: "Security Overview"
+title: Security Overview
 weight: 2
+meta:
+  path: getting-started/security-overview
 ---
-
 ### Data Storage & Residency
 - **All data stored in Sweden** with **GleSYS AB** (ISO/IEC 27001 certified).
 - Option to use **your own cloud** or **on-premises** deployment.

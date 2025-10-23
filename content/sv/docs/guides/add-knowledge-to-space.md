@@ -1,8 +1,9 @@
 ---
-title: "Så lägger du till kunskap i ett Space"
+title: Så lägger du till kunskap i ett Space
 weight: 1
+meta:
+  path: guides/add-knowledge-to-space
 ---
-
 ### Förutsättningar
 För att lägga till kunskap i ett Space behöver du rollen **Space Admin** eller **Space Editor**.  
 **Space Viewers** kan bara använda befintliga assistenter och kan inte koppla nya kunskapskällor.

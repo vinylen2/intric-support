@@ -1,9 +1,9 @@
 ---
-title: "Collaboration"
+title: Collaboration
 weight: 4
+meta:
+  path: Functionality/collaboration
 ---
-
-
 Intric is designed for teamwork — enabling secure, role-based collaboration through **Spaces** and shared templates.
 
 ### Spaces (Workspaces)

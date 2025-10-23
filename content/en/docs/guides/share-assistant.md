@@ -1,8 +1,9 @@
 ---
-title: "Share an Assistant"
+title: Share an Assistant
 weight: 4
+meta:
+  path: guides/share-assistant
 ---
-
 ### Step 1: Create a Share Link
 1. Open the assistant to share.
 2. Click the **Share** icon (near the top-right).

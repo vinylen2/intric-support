@@ -1,9 +1,11 @@
 ---
 title: Introduction to Intric
-description: ""
+description: ''
 weight: 1
+meta:
+  path: getting-started/_index
+slug: _index
 ---
-
 ## Welcome to Intric
 
 Intric is a secure, scalable AI platform built for organisations that want to make artificial intelligence accessible, compliant, and collaborative.  

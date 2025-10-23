@@ -1,18 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>intric.ai Support – Tags</title>
-    <link>http://localhost:1313/no/tags/</link>
-    <description>Recent content in Tags on intric.ai Support</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>no</language>
-    
-	  <atom:link href="http://localhost:1313/no/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intric.ai Support – Tags</title><link>http://localhost:1313/no/tags/</link><description>Recent content in Tags on intric.ai Support</description><generator>Hugo -- gohugo.io</generator><language>no</language><atom:link href="http://localhost:1313/no/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

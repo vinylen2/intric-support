@@ -1,8 +1,9 @@
 ---
-title: "Säkerhetsöversikt"
+title: Säkerhetsöversikt
 weight: 2
+meta:
+  path: getting-started/security-overview
 ---
-
 ### Datolagring och plats
 - **All data lagras i Sverige** hos **GleSYS AB** (certifierade enligt ISO/IEC 27001).
 - Möjlighet att använda **egen molnmiljö** eller **on-premises** installation.

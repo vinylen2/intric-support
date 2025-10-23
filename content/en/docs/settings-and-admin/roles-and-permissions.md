@@ -1,8 +1,9 @@
 ---
-title: "Roles and Permissions"
+title: Roles and Permissions
 weight: 1
+meta:
+  path: settings-and-admin/roles-and-permissions
 ---
-
 ## Roles and Permissions
 
 ### Overview

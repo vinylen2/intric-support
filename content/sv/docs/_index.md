@@ -1,10 +1,13 @@
 ---
-title: "Dokumentation"
-description: "Guider, felsökningssteg och referensmaterial för intric.ai."
-aliases: ["/dokumentation/"]
+title: Dokumentation
+description: Guider, felsökningssteg och referensmaterial för intric.ai.
+aliases:
+- "/dokumentation/"
 weight: 1
+meta:
+  path: _index
+slug: _index
 ---
-
 ## Utforska dokumentationen
 
 - **Introduktion till Intric** — Lär dig grunderna i hur Intric fungerar, från utrymmen och assistenter till samarbetsverktyg och integrationer.  

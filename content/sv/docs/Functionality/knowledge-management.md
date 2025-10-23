@@ -1,8 +1,9 @@
 ---
-title: "Kunskapshantering"
+title: Kunskapshantering
 weight: 3
+meta:
+  path: Functionality/knowledge-management
 ---
-
 Avsnittet **Kunskap** gör det möjligt att integrera, strukturera och underhålla den data som driver dina assistenter.
 
 ### Sätt att lägga till kunskap

@@ -1,35 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>intric.ai Support – Guides</title>
-    <link>http://localhost:1313/docs/guides/</link>
-    <description>Recent content in Guides on intric.ai Support</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/docs/guides/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>How to Add Knowledge to a Space</title>
-      <link>http://localhost:1313/docs/guides/add-knowledge-to-space/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/add-knowledge-to-space/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Prerequisites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prerequisites&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#prerequisites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To add knowledge to a Space, you need to have the &lt;strong&gt;Space Admin&lt;/strong&gt; or &lt;strong&gt;Space Editor&lt;/strong&gt; role.&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intric.ai Support – Guides</title><link>http://localhost:1313/docs/guides/</link><description>Recent content in Guides on intric.ai Support</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/docs/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Add Knowledge to a Space</title><link>http://localhost:1313/docs/guides/add-knowledge-to-space/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/add-knowledge-to-space/</guid><description>
+&lt;h3&gt;Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites"&gt;&lt;/span&gt;
+&lt;a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To add knowledge to a Space, you need to have the &lt;strong&gt;Space Admin&lt;/strong&gt; or &lt;strong&gt;Space Editor&lt;/strong&gt; role.&lt;br&gt;
 &lt;strong&gt;Space Viewers&lt;/strong&gt; can only use existing assistants and cannot connect new knowledge sources.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Three Ways to Add Knowledge&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;three-ways-to-add-knowledge&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#three-ways-to-add-knowledge&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. Collections&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-collections&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-collections&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;h3&gt;Three Ways to Add Knowledge&lt;span class="hx:absolute hx:-mt-20" id="three-ways-to-add-knowledge"&gt;&lt;/span&gt;
+&lt;a href="#three-ways-to-add-knowledge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. Collections&lt;span class="hx:absolute hx:-mt-20" id="1-collections"&gt;&lt;/span&gt;
+&lt;a href="#1-collections" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Knowledge&lt;/strong&gt; in the left menu.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Collections&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Select &lt;strong&gt;Create Collection&lt;/strong&gt; and choose a text embedding model.&lt;/li&gt;
@@ -38,8 +14,8 @@
 &lt;li&gt;Organize files into structured folders for easy access.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h4&gt;2. Web Pages&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-web-pages&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-web-pages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;h4&gt;2. Web Pages&lt;span class="hx:absolute hx:-mt-20" id="2-web-pages"&gt;&lt;/span&gt;
+&lt;a href="#2-web-pages" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Knowledge → Web Pages&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Connect Web Pages&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Paste the URL of the website you want to connect.&lt;/li&gt;
@@ -53,8 +29,8 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Be specific with your URLs — connect subdomains or pages containing relevant information rather than entire websites.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4&gt;3. Integrations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-integrations&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-integrations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;h4&gt;3. Integrations&lt;span class="hx:absolute hx:-mt-20" id="3-integrations"&gt;&lt;/span&gt;
+&lt;a href="#3-integrations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;SharePoint&lt;/strong&gt; and &lt;strong&gt;Confluence&lt;/strong&gt; integrations must first be enabled by an Admin.&lt;/li&gt;
 &lt;li&gt;As a user, go to &lt;strong&gt;Settings → My Account → My Integration → Connect&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Connect your access credentials for each service.&lt;/li&gt;
@@ -62,8 +38,8 @@
 &lt;li&gt;Click &lt;strong&gt;Import Knowledge&lt;/strong&gt; and choose which knowledge base to connect.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;Connecting Knowledge to an Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;connecting-knowledge-to-an-assistant&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#connecting-knowledge-to-an-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;After adding knowledge to your Space:&lt;/p&gt;
+&lt;h3&gt;Connecting Knowledge to an Assistant&lt;span class="hx:absolute hx:-mt-20" id="connecting-knowledge-to-an-assistant"&gt;&lt;/span&gt;
+&lt;a href="#connecting-knowledge-to-an-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;After adding knowledge to your Space:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open the assistant you want to connect the knowledge to.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Edit&lt;/strong&gt; (upper-right corner).&lt;/li&gt;
@@ -71,62 +47,49 @@
 &lt;li&gt;Choose which knowledge source from your Space the assistant should use.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;About RAG Technology&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;about-rag-technology&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#about-rag-technology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to perform semantic searches across your connected knowledge.&lt;/p&gt;
+&lt;h3&gt;About RAG Technology&lt;span class="hx:absolute hx:-mt-20" id="about-rag-technology"&gt;&lt;/span&gt;
+&lt;a href="#about-rag-technology" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to perform semantic searches across your connected knowledge.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When a question is asked, the system automatically finds the most relevant text segments.&lt;/li&gt;
 &lt;li&gt;Only those relevant excerpts are sent to the language model — never entire documents.&lt;/li&gt;
 &lt;li&gt;All knowledge is stored in a &lt;strong&gt;vector database (PGVector)&lt;/strong&gt; for fast and efficient retrieval.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;File Sizes and Limitations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;file-sizes-and-limitations&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#file-sizes-and-limitations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Type&lt;/th&gt;
-          &lt;th&gt;Max Size&lt;/th&gt;
-          &lt;th&gt;Notes&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Text-based files&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Supported: PDF, Word, Excel, PowerPoint, CSV, Markdown, text&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Audio / Video&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;200 MB&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;For transcription and analysis&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Images&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;For reference or documentation&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Set Security Classification</title>
-      <link>http://localhost:1313/docs/guides/set-security-classification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/set-security-classification/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Step 1: Create a Security Classification&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-a-security-classification&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1-create-a-security-classification&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;File Sizes and Limitations&lt;span class="hx:absolute hx:-mt-20" id="file-sizes-and-limitations"&gt;&lt;/span&gt;
+&lt;a href="#file-sizes-and-limitations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Max Size&lt;/th&gt;
+&lt;th&gt;Notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Text-based files&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Supported: PDF, Word, Excel, PowerPoint, CSV, Markdown, text&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Audio / Video&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;200 MB&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;For transcription and analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Images&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;For reference or documentation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>Set Security Classification</title><link>http://localhost:1313/docs/guides/set-security-classification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/set-security-classification/</guid><description>
+&lt;h3&gt;Step 1: Create a Security Classification&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-a-security-classification"&gt;&lt;/span&gt;
+&lt;a href="#step-1-create-a-security-classification" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Click &lt;strong&gt;Admin&lt;/strong&gt; (top-right).&lt;/li&gt;
 &lt;li&gt;Open &lt;strong&gt;Security Settings&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Create classification levels (e.g., &lt;em&gt;High Security Classification&lt;/em&gt;, &lt;em&gt;Standard Security Classification&lt;/em&gt;).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Map AI Models&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-map-ai-models&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2-map-ai-models&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Map AI Models&lt;span class="hx:absolute hx:-mt-20" id="step-2-map-ai-models"&gt;&lt;/span&gt;
+&lt;a href="#step-2-map-ai-models" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Models&lt;/strong&gt; (left menu).&lt;/li&gt;
 &lt;li&gt;Assign which models belong to each classification.
 &lt;ul&gt;
@@ -135,38 +98,25 @@
 &lt;/li&gt;
 &lt;li&gt;Save your settings.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Assign to a Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-assign-to-a-space&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3-assign-to-a-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 3: Assign to a Space&lt;span class="hx:absolute hx:-mt-20" id="step-3-assign-to-a-space"&gt;&lt;/span&gt;
+&lt;a href="#step-3-assign-to-a-space" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;In each Space, the &lt;strong&gt;Space Admin&lt;/strong&gt; selects the appropriate classification.&lt;/li&gt;
 &lt;li&gt;Users in that Space can only pick models allowed by that classification.&lt;/li&gt;
-&lt;/ol&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Build an Assistant — Focus on the Prompt</title>
-      <link>http://localhost:1313/docs/guides/build-assistant-prompt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/build-assistant-prompt/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Step 1: Create an Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-an-assistant&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1-create-an-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;/ol&gt;</description></item><item><title>Build an Assistant — Focus on the Prompt</title><link>http://localhost:1313/docs/guides/build-assistant-prompt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/build-assistant-prompt/</guid><description>
+&lt;h3&gt;Step 1: Create an Assistant&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-an-assistant"&gt;&lt;/span&gt;
+&lt;a href="#step-1-create-an-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Assistants&lt;/strong&gt; (left menu).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Create Assistant&lt;/strong&gt; (blue button, top-right).&lt;/li&gt;
 &lt;li&gt;Choose a template or &lt;strong&gt;Build from scratch&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Configure Basics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-configure-basics&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2-configure-basics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Configure Basics&lt;span class="hx:absolute hx:-mt-20" id="step-2-configure-basics"&gt;&lt;/span&gt;
+&lt;a href="#step-2-configure-basics" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Name the assistant.&lt;/li&gt;
 &lt;li&gt;Choose a language model (based on use case &amp;amp; security classification).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Create&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Write an Effective Prompt&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-write-an-effective-prompt&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3-write-an-effective-prompt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Use this structure:&lt;/p&gt;
+&lt;h3&gt;Step 3: Write an Effective Prompt&lt;span class="hx:absolute hx:-mt-20" id="step-3-write-an-effective-prompt"&gt;&lt;/span&gt;
+&lt;a href="#step-3-write-an-effective-prompt" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Use this structure:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Clearly describe the task and scope.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Who?&lt;/strong&gt; Define the assistant’s role (e.g., “You are an HR specialist…”).&lt;/li&gt;
@@ -176,108 +126,68 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Example prompt&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;You are an HR specialist who helps employees with HR-related questions.&lt;br&gt;
+&lt;p&gt;You are an HR specialist who helps employees with HR-related questions.&lt;br&gt;
 Always respond professionally and reference our policy documents when relevant.&lt;br&gt;
 Structure answers with clear headings and bullet points.&lt;br&gt;
 If you don’t know, ask the user to contact the HR department.&lt;/p&gt;
-
 &lt;/blockquote&gt;
-&lt;h3&gt;Step 4: Test &amp;amp; Iterate&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-4-test--iterate&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-4-test--iterate&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 4: Test &amp;amp; Iterate&lt;span class="hx:absolute hx:-mt-20" id="step-4-test--iterate"&gt;&lt;/span&gt;
+&lt;a href="#step-4-test--iterate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ask diverse questions.&lt;/li&gt;
 &lt;li&gt;Go back to &lt;strong&gt;Edit&lt;/strong&gt; and refine the prompt.&lt;/li&gt;
 &lt;li&gt;Repeat until responses meet expectations.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Add Knowledge to an Assistant</title>
-      <link>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Step 1: Prepare Knowledge in Your Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-prepare-knowledge-in-your-space&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1-prepare-knowledge-in-your-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Choose one or more methods under &lt;strong&gt;Knowledge&lt;/strong&gt; (left menu):&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Add Knowledge to an Assistant</title><link>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</guid><description>
+&lt;h3&gt;Step 1: Prepare Knowledge in Your Space&lt;span class="hx:absolute hx:-mt-20" id="step-1-prepare-knowledge-in-your-space"&gt;&lt;/span&gt;
+&lt;a href="#step-1-prepare-knowledge-in-your-space" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Choose one or more methods under &lt;strong&gt;Knowledge&lt;/strong&gt; (left menu):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Collections:&lt;/strong&gt; Upload documents/spreadsheets/presentations.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Web Pages:&lt;/strong&gt; Connect sites (basic crawl or sitemap crawl).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Connect &lt;strong&gt;SharePoint&lt;/strong&gt; / &lt;strong&gt;Confluence&lt;/strong&gt; (Admin must enable first).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 2: Connect Knowledge to the Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-connect-knowledge-to-the-assistant&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2-connect-knowledge-to-the-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Connect Knowledge to the Assistant&lt;span class="hx:absolute hx:-mt-20" id="step-2-connect-knowledge-to-the-assistant"&gt;&lt;/span&gt;
+&lt;a href="#step-2-connect-knowledge-to-the-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open your assistant → &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Add Knowledge&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Select the relevant knowledge sources from your Space.&lt;/li&gt;
 &lt;li&gt;Save.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Test the Integration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-test-the-integration&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3-test-the-integration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 3: Test the Integration&lt;span class="hx:absolute hx:-mt-20" id="step-3-test-the-integration"&gt;&lt;/span&gt;
+&lt;a href="#step-3-test-the-integration" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ask questions that require the uploaded knowledge.&lt;/li&gt;
 &lt;li&gt;Check that sources are referenced correctly.&lt;/li&gt;
 &lt;li&gt;Adjust sources or settings if needed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Notes on RAG&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;notes-on-rag&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#notes-on-rag&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to semantically search your knowledge.&lt;br&gt;
-Only the most relevant text chunks are sent to the model (not entire documents); data is stored in a vector DB (&lt;strong&gt;PGVector&lt;/strong&gt;) for fast retrieval.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Share an Assistant</title>
-      <link>http://localhost:1313/docs/guides/share-assistant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/share-assistant/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Step 1: Create a Share Link&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-a-share-link&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1-create-a-share-link&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h4&gt;Notes on RAG&lt;span class="hx:absolute hx:-mt-20" id="notes-on-rag"&gt;&lt;/span&gt;
+&lt;a href="#notes-on-rag" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to semantically search your knowledge.&lt;br&gt;
+Only the most relevant text chunks are sent to the model (not entire documents); data is stored in a vector DB (&lt;strong&gt;PGVector&lt;/strong&gt;) for fast retrieval.&lt;/p&gt;</description></item><item><title>Share an Assistant</title><link>http://localhost:1313/docs/guides/share-assistant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/share-assistant/</guid><description>
+&lt;h3&gt;Step 1: Create a Share Link&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-a-share-link"&gt;&lt;/span&gt;
+&lt;a href="#step-1-create-a-share-link" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open the assistant to share.&lt;/li&gt;
 &lt;li&gt;Click the &lt;strong&gt;Share&lt;/strong&gt; icon (near the top-right).&lt;/li&gt;
 &lt;li&gt;Choose &lt;strong&gt;Create share link&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Copy the generated link (and code, if shown).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Send to Recipient&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-send-to-recipient&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2-send-to-recipient&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 2: Send to Recipient&lt;span class="hx:absolute hx:-mt-20" id="step-2-send-to-recipient"&gt;&lt;/span&gt;
+&lt;a href="#step-2-send-to-recipient" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Send the link to the recipient.&lt;/li&gt;
 &lt;li&gt;The recipient opens the link and copies the share code displayed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 3: Import (Recipient)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-import-recipient&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3-import-recipient&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 3: Import (Recipient)&lt;span class="hx:absolute hx:-mt-20" id="step-3-import-recipient"&gt;&lt;/span&gt;
+&lt;a href="#step-3-import-recipient" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;In their Space, click the arrow next to &lt;strong&gt;Create Assistant&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Select &lt;strong&gt;Import Assistant&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Paste the share code.&lt;/li&gt;
 &lt;li&gt;The assistant (name &amp;amp; prompt) is imported.&lt;br&gt;
 &lt;em&gt;Note: knowledge and attachments are &lt;strong&gt;not&lt;/strong&gt; included.&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Create and Manage Spaces</title>
-      <link>http://localhost:1313/docs/guides/create-and-manage-spaces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/create-and-manage-spaces/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Step 1: Create a Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-a-space&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1-create-a-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;/ol&gt;</description></item><item><title>Create and Manage Spaces</title><link>http://localhost:1313/docs/guides/create-and-manage-spaces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/create-and-manage-spaces/</guid><description>
+&lt;h3&gt;Step 1: Create a Space&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-a-space"&gt;&lt;/span&gt;
+&lt;a href="#step-1-create-a-space" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open &lt;strong&gt;Spaces&lt;/strong&gt; (top menu).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Create Space&lt;/strong&gt; (blue button).&lt;/li&gt;
 &lt;li&gt;Name and describe the Space.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Invite Members&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-invite-members&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2-invite-members&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Invite Members&lt;span class="hx:absolute hx:-mt-20" id="step-2-invite-members"&gt;&lt;/span&gt;
+&lt;a href="#step-2-invite-members" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Members&lt;/strong&gt; (left menu of the Space).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Invite users&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Assign roles:
@@ -288,52 +198,32 @@ Only the most relevant text chunks are sent to the model (not entire documents);
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Organise Assistants&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-organise-assistants&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3-organise-assistants&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 3: Organise Assistants&lt;span class="hx:absolute hx:-mt-20" id="step-3-organise-assistants"&gt;&lt;/span&gt;
+&lt;a href="#step-3-organise-assistants" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Create assistants within the Space.&lt;/li&gt;
 &lt;li&gt;Move assistants between Spaces (three dots → &lt;strong&gt;Move&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Publish&lt;/strong&gt; assistants to make them available to Space Viewers.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Activate Tools (Additional Capabilities)</title>
-      <link>http://localhost:1313/docs/guides/activate-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guides/activate-tools/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Step 1: Check Model Compatibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-check-model-compatibility&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1-check-model-compatibility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;/ul&gt;</description></item><item><title>Activate Tools (Additional Capabilities)</title><link>http://localhost:1313/docs/guides/activate-tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/activate-tools/</guid><description>
+&lt;h3&gt;Step 1: Check Model Compatibility&lt;span class="hx:absolute hx:-mt-20" id="step-1-check-model-compatibility"&gt;&lt;/span&gt;
+&lt;a href="#step-1-check-model-compatibility" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ensure your chosen model supports tools.&lt;/li&gt;
 &lt;li&gt;Models like &lt;strong&gt;GPT-4&lt;/strong&gt;, &lt;strong&gt;Claude&lt;/strong&gt;, and &lt;strong&gt;Mistral&lt;/strong&gt; generally support tools.&lt;/li&gt;
 &lt;li&gt;Many open-source models (e.g., some &lt;strong&gt;Llama&lt;/strong&gt; variants) may not support tool use.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 2: Enable Tools on the Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-enable-tools-on-the-assistant&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2-enable-tools-on-the-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Enable Tools on the Assistant&lt;span class="hx:absolute hx:-mt-20" id="step-2-enable-tools-on-the-assistant"&gt;&lt;/span&gt;
+&lt;a href="#step-2-enable-tools-on-the-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open the assistant → &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Scroll to &lt;strong&gt;Additional Capabilities&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Toggle desired tools, e.g.:
+&lt;li&gt;Toggle desired tools, e.g.:&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Image Generation:&lt;/strong&gt; Create images from descriptions.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Web Search:&lt;/strong&gt; Fetch up-to-date information from the internet.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SCB:&lt;/strong&gt; Query Statistics Sweden (SCB) data.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kolada:&lt;/strong&gt; Query Kolada’s municipal indicators.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Step 3: Test Functionality&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-test-functionality&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3-test-functionality&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 3: Test Functionality&lt;span class="hx:absolute hx:-mt-20" id="step-3-test-functionality"&gt;&lt;/span&gt;
+&lt;a href="#step-3-test-functionality" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Try each enabled tool with a small task.&lt;/li&gt;
 &lt;li&gt;Note that tools may affect response time and cost.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>

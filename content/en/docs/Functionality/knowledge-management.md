@@ -1,9 +1,9 @@
 ---
-title: "Knowledge Management"
+title: Knowledge Management
 weight: 3
+meta:
+  path: Functionality/knowledge-management
 ---
-
-
 The **Knowledge** section lets you integrate, structure, and maintain the data that powers your assistants.
 
 ### Ways to Add Knowledge

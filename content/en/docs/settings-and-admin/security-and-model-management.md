@@ -1,8 +1,9 @@
 ---
-title: "Security and Model Management"
+title: Security and Model Management
 weight: 2
+meta:
+  path: settings-and-admin/security-and-model-management
 ---
-
 ## Security and Model Management
 
 ### Security Classification

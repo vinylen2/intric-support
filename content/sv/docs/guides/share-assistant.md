@@ -1,8 +1,9 @@
 ---
-title: "Dela en assistent"
+title: Dela en assistent
 weight: 4
+meta:
+  path: guides/share-assistant
 ---
-
 ### Steg 1: Skapa en delningslänk
 1. Öppna assistenten du vill dela.
 2. Klicka på ikonen **Share** (uppe till höger).

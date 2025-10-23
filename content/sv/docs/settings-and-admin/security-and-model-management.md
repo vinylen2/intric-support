@@ -1,8 +1,9 @@
 ---
-title: "Säkerhet och modellhantering"
+title: Säkerhet och modellhantering
 weight: 2
+meta:
+  path: settings-and-admin/security-and-model-management
 ---
-
 ## Säkerhet och modellhantering
 
 ### Säkerhetsklassning

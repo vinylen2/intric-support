@@ -1,8 +1,9 @@
 ---
-title: "Bygg en assistent – fokusera på prompten"
+title: Bygg en assistent – fokusera på prompten
 weight: 2
+meta:
+  path: guides/build-assistant-prompt
 ---
-
 ### Steg 1: Skapa en assistent
 1. Gå till **Assistants** (vänstermenyn).
 2. Klicka på **Create Assistant** (blå knapp uppe till höger).

@@ -1,8 +1,9 @@
 ---
-title: "First Login"
+title: First Login
 weight: 1
+meta:
+  path: getting-started/login
 ---
-
 ### How to Log In
 Login to Intric is handled via your organisation’s **SSO system (Single Sign-On)** — typically integrated with **Microsoft Entra ID** or **Active Directory**.  
 Many organisations also have **MFA (multi-factor authentication)** enabled for additional security.  

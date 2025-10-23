@@ -1,8 +1,9 @@
 ---
-title: "Skapa och hantera Spaces"
+title: Skapa och hantera Spaces
 weight: 5
+meta:
+  path: guides/create-and-manage-spaces
 ---
-
 ### Steg 1: Skapa ett Space
 1. Öppna **Spaces** (övre menyn).
 2. Klicka på **Create Space** (blå knapp).

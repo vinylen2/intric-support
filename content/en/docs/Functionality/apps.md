@@ -1,9 +1,9 @@
 ---
-title: "Apps"
+title: Apps
 weight: 2
+meta:
+  path: Functionality/apps
 ---
-
-
 **Apps** are specialised tools in Intric designed for clearly defined processes and tasks.
 
 ### Common Use Cases

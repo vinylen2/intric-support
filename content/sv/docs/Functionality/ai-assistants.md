@@ -1,8 +1,9 @@
 ---
-title: "AI-assistenter"
+title: AI-assistenter
 weight: 1
+meta:
+  path: Functionality/ai-assistants
 ---
-
 AI-assistenter är hjärtat i Intric – anpassningsbara AI-verktyg med ett chattgränssnitt som låter användare interagera med organisationens kunskap och arbetsflöden.
 
 ### Vad du kan göra

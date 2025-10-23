@@ -1,8 +1,9 @@
 ---
-title: "Appar"
+title: Appar
 weight: 2
+meta:
+  path: Functionality/apps
 ---
-
 **Appar** är specialiserade verktyg i Intric som är utformade för tydligt definierade processer och uppgifter.
 
 ### Vanliga användningsområden

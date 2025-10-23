@@ -1,8 +1,9 @@
 ---
-title: "Sätt säkerhetsklassning"
+title: Sätt säkerhetsklassning
 weight: 1
+meta:
+  path: guides/set-security-classification
 ---
-
 ### Steg 1: Skapa en säkerhetsklassning
 1. Klicka på **Admin** (uppe till höger).
 2. Öppna **Security Settings**.

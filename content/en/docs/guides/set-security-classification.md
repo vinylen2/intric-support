@@ -1,8 +1,9 @@
 ---
-title: "Set Security Classification"
+title: Set Security Classification
 weight: 1
+meta:
+  path: guides/set-security-classification
 ---
-
 ### Step 1: Create a Security Classification
 1. Click **Admin** (top-right).
 2. Open **Security Settings**.

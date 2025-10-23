@@ -1,8 +1,9 @@
 ---
-title: "Aktivera verktyg (extra funktioner)"
+title: Aktivera verktyg (extra funktioner)
 weight: 6
+meta:
+  path: guides/activate-tools
 ---
-
 ### Steg 1: Kontrollera modellens kompatibilitet
 - Säkerställ att den valda modellen stödjer verktyg.
 - Modeller som **GPT-4**, **Claude** och **Mistral** har i regel verktygsstöd.

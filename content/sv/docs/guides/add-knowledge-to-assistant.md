@@ -1,8 +1,9 @@
 ---
-title: "Lägg till kunskap i en assistent"
+title: Lägg till kunskap i en assistent
 weight: 3
+meta:
+  path: guides/add-knowledge-to-assistant
 ---
-
 ### Steg 1: Förbered kunskap i ditt Space
 Välj en eller flera metoder under **Kunskap** (vänstermenyn):
 

@@ -1,8 +1,9 @@
 ---
-title: "Datahantering och integrationer"
+title: Datahantering och integrationer
 weight: 3
+meta:
+  path: settings-and-admin/data-and-integrations
 ---
-
 ## Datahantering och integrationer
 
 ### Aktivera integrationer

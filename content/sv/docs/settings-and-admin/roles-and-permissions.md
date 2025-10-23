@@ -1,8 +1,9 @@
 ---
-title: "Roller och behörigheter"
+title: Roller och behörigheter
 weight: 1
+meta:
+  path: settings-and-admin/roles-and-permissions
 ---
-
 ## Roller och behörigheter
 
 ### Översikt

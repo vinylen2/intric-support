@@ -1,8 +1,10 @@
 ---
-title: "Guider"
+title: Guider
 weight: 4
+meta:
+  path: guides/_index
+slug: _index
 ---
-
 Här hittar du **steg-för-steg-guider** som hjälper dig att få ut det mesta av Intrics funktioner – från att skapa din första assistent till att koppla kunskapskällor och samarbeta i Spaces.
 
 Varje guide fokuserar på ett specifikt användningsfall eller arbetsflöde, vilket gör det enkelt att följa och direkt applicera i din organisation.

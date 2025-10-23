@@ -1,7 +1,7 @@
 local_backend: true
 
 backend:
-  name: github            # use local git backend for Sveltia/Decap with proxy
+  name: git            # use local git backend for Sveltia/Decap with proxy
   repo: vinylen2/intric-support
   branch: main
 
@@ -18,7 +18,7 @@ category_options: &category_options
 collections:
   # English content pages
   - name: "pages_en"
-    label: "Pages (EN)"
+    label: "English › Pages"
     files:
       - label: "Home"
         name: "home"
@@ -47,20 +47,42 @@ collections:
           - { label: "Title", name: "title", widget: "string", required: false }
           - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "english_docs"
-    label: "English › Docs"
-    folder: "content/en/docs"
+  - name: "english_docs_functionality"
+    label: "English › Docs › Functionality"
+    folder: "content/en/docs/Functionality"
     create: true
     slug: "{{slug}}"
-    nested:
-      depth: 8
-      summary: "{{title}}"
+    path: "{{slug}}"
     fields: &docs_fields
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
       - { label: "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "english_docs_getting_started"
+    label: "English › Docs › Getting Started"
+    folder: "content/en/docs/getting-started"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields: *docs_fields
+
+  - name: "english_docs_guides"
+    label: "English › Docs › Guides"
+    folder: "content/en/docs/guides"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields: *docs_fields
+
+  - name: "english_docs_settings_admin"
+    label: "English › Docs › Settings & Admin"
+    folder: "content/en/docs/settings-and-admin"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields: *docs_fields
 
   # Swedish content
   - name: "swedish_pages"
@@ -81,46 +103,34 @@ collections:
           - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
           - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "swedish_docs"
-    label: "Swedish › Docs"
-    folder: "content/sv/docs"
+  - name: "swedish_docs_functionality"
+    label: "Swedish › Docs › Functionality"
+    folder: "content/sv/docs/Functionality"
     create: true
     slug: "{{slug}}"
-    nested:
-      depth: 8
-      summary: "{{title}}"
+    path: "{{slug}}"
     fields: *docs_fields
 
-  # Swedish support
-  - name: "support_sv"
-    label: "Swedish › Support"
-    label_singular: "Artikel (SV)"
-    folder: "content/sv/support"
+  - name: "swedish_docs_getting_started"
+    label: "Swedish › Docs › Getting Started"
+    folder: "content/sv/docs/getting-started"
     create: true
-    path: "{{category}}/{{slug}}"
     slug: "{{slug}}"
-    fields:
-      - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Sammanfattning", name: "summary", widget: "string", required: false }
-      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", required: false }
-      - { label: "Vikt", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
-      - { label: "Översättningsnyckel", name: "translationKey", widget: "string", required: false }
-      - { label: "Kategori", name: "category", widget: "select", options: *category_options }
-      - { label: "Innehåll", name: "body", widget: "markdown" }
+    path: "{{slug}}"
+    fields: *docs_fields
 
-  # Norwegian support
-  - name: "support_no"
-    label: "Norwegian › Support"
-    label_singular: "Artikkel (NO)"
-    folder: "content/no/support"
+  - name: "swedish_docs_guides"
+    label: "Swedish › Docs › Guides"
+    folder: "content/sv/docs/guides"
     create: true
-    path: "{{category}}/{{slug}}"
     slug: "{{slug}}"
-    fields:
-      - { label: "Tittel", name: "title", widget: "string" }
-      - { label: "Sammendrag", name: "summary", widget: "string", required: false }
-      - { label: "Dato", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", required: false }
-      - { label: "Vekt", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
-      - { label: "Oversettelsesnøkkel", name: "translationKey", widget: "string", required: false }
-      - { label: "Kategori", name: "category", widget: "select", options: *category_options }
-      - { label: "Innhold", name: "body", widget: "markdown" }
+    path: "{{slug}}"
+    fields: *docs_fields
+
+  - name: "swedish_docs_settings_admin"
+    label: "Swedish › Docs › Settings & Admin"
+    folder: "content/sv/docs/settings-and-admin"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields: *docs_fields
