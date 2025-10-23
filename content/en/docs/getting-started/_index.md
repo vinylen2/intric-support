@@ -13,7 +13,7 @@ It enables teams to create, share, and use intelligent assistants — without ne
 
 The platform brings together **assistants**, **spaces**, and **knowledge** into one seamless environment that adapts to your organisation’s structure and workflow.
 
-![](67ebc33503489bd786a3d8bc___cloud-copy-3x.png)
+{{< youtube AopO3qifoNo >}}
 
 - - -
 
