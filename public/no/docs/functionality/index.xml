@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intric.ai Support – Kjernefunksjoner i Intric</title><link>http://localhost:1313/no/docs/functionality/</link><description>Recent content in Kjernefunksjoner i Intric on intric.ai Support</description><generator>Hugo -- gohugo.io</generator><language>no</language><atom:link href="http://localhost:1313/no/docs/functionality/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-assistenter</title><link>http://localhost:1313/no/docs/functionality/ai-assistants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/functionality/ai-assistants/</guid><description>
+&lt;p&gt;AI-assistenter er kjernen i Intric – tilpassbare AI-verktøy med et chatgrensesnitt som lar brukerne samhandle med organisasjonens kunnskap og arbeidsflyter.&lt;/p&gt;
+&lt;h3&gt;Dette kan du gjøre&lt;span class="hx:absolute hx:-mt-20" id="dette-kan-du-gjøre"&gt;&lt;/span&gt;
+&lt;a href="#dette-kan-du-gj%c3%b8re" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Stille spørsmål og få presise svar basert på organisasjonens egne data&lt;/li&gt;
+&lt;li&gt;Tilpasse assistenter til spesifikke bruksområder som &lt;strong&gt;juss&lt;/strong&gt;, &lt;strong&gt;HR&lt;/strong&gt; eller &lt;strong&gt;kommunikasjon&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Integrere interne kunnskapskilder via &lt;strong&gt;RAG-teknologi (Retrieval-Augmented Generation)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Komponenter som definerer en assistent&lt;span class="hx:absolute hx:-mt-20" id="komponenter-som-definerer-en-assistent"&gt;&lt;/span&gt;
+&lt;a href="#komponenter-som-definerer-en-assistent" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Språkmodell:&lt;/strong&gt; Velg mellom flere AI-modeller – EU-baserte, nordiske eller amerikanske&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; Instruksjonssettet som styrer hvordan assistenten oppfører seg&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kunnskap:&lt;/strong&gt; Innholdet og datakildene assistenten bruker til å svare&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Apper</title><link>http://localhost:1313/no/docs/functionality/apps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/functionality/apps/</guid><description>
+&lt;p&gt;&lt;strong&gt;Apper&lt;/strong&gt; er spesialiserte verktøy i Intric som er laget for tydelig definerte prosesser og oppgaver.&lt;/p&gt;
+&lt;h3&gt;Vanlige brukstilfeller&lt;span class="hx:absolute hx:-mt-20" id="vanlige-brukstilfeller"&gt;&lt;/span&gt;
+&lt;a href="#vanlige-brukstilfeller" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transkribere&lt;/strong&gt; møter, intervjuer eller lydfiler&lt;/li&gt;
+&lt;li&gt;Generere strukturert output fra forhåndsdefinert input&lt;/li&gt;
+&lt;li&gt;Kjøre repetitive eller dataintensive oppgaver effektivt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Viktige kjennetegn&lt;span class="hx:absolute hx:-mt-20" id="viktige-kjennetegn"&gt;&lt;/span&gt;
+&lt;a href="#viktige-kjennetegn" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Bygger på de samme kjernekomponentene som assistenter&lt;/li&gt;
+&lt;li&gt;Optimalisert for &lt;strong&gt;ensrettede arbeidsflyter&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Enkle å distribuere og dele på tvers av team&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Kunnskapshåndtering</title><link>http://localhost:1313/no/docs/functionality/knowledge-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/functionality/knowledge-management/</guid><description>
+&lt;p&gt;I &lt;strong&gt;Knowledge&lt;/strong&gt;-delen kan du integrere, strukturere og vedlikeholde dataen som driver assistentene dine.&lt;/p&gt;
+&lt;h3&gt;Måter å legge til kunnskap på&lt;span class="hx:absolute hx:-mt-20" id="måter-å-legge-til-kunnskap-på"&gt;&lt;/span&gt;
+&lt;a href="#m%c3%a5ter-%c3%a5-legge-til-kunnskap-p%c3%a5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Samlinger:&lt;/strong&gt; Last opp og organiser dokumenter, regneark og presentasjoner&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nettsider:&lt;/strong&gt; Koble til nettsteder og la innholdet krype inn automatisk&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrasjoner:&lt;/strong&gt; Koble direkte til systemer som &lt;strong&gt;SharePoint&lt;/strong&gt;, &lt;strong&gt;Confluence&lt;/strong&gt; og flere&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Slik fungerer det&lt;span class="hx:absolute hx:-mt-20" id="slik-fungerer-det"&gt;&lt;/span&gt;
+&lt;a href="#slik-fungerer-det" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric bruker &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; – systemet søker semantisk i alle tilkoblede kilder for å finne relevant informasjon før det genererer et svar.&lt;br&gt;
+Dette sikrer at svarene er presise, kontekstuelle og basert på dine egne, pålitelige data.&lt;/p&gt;</description></item><item><title>Samarbeid</title><link>http://localhost:1313/no/docs/functionality/collaboration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/functionality/collaboration/</guid><description>
+&lt;p&gt;Intric er bygget for samarbeid – med sikker, rollebasert samhandling via &lt;strong&gt;Spaces&lt;/strong&gt; og delte maler.&lt;/p&gt;
+&lt;h3&gt;Spaces (arbeidsområder)&lt;span class="hx:absolute hx:-mt-20" id="spaces-arbeidsområder"&gt;&lt;/span&gt;
+&lt;a href="#spaces-arbeidsomr%c3%a5der" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Samhandlingsmiljøer der team kan administrere assistenter og kunnskap&lt;/li&gt;
+&lt;li&gt;Rollebassert tilgang: &lt;strong&gt;Space Admin&lt;/strong&gt;, &lt;strong&gt;Space Editor&lt;/strong&gt;, &lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Organiser etter team, prosjekt eller funksjon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Deling og maler&lt;span class="hx:absolute hx:-mt-20" id="deling-og-maler"&gt;&lt;/span&gt;
+&lt;a href="#deling-og-maler" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Del assistenter på tvers av avdelinger eller organisasjoner&lt;/li&gt;
+&lt;li&gt;Bruk ferdiglagde maler for vanlige behov i offentlig og privat sektor&lt;/li&gt;
+&lt;li&gt;Lag egne maler for å standardisere beste praksis&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

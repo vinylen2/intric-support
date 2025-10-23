@@ -1,33 +1,70 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intric.ai Support – Documentation</title><link>http://localhost:1313/docs/</link><description>Recent content in Documentation on intric.ai Support</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Assistants</title><link>http://localhost:1313/docs/functionality/ai-assistants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/functionality/ai-assistants/</guid><description>
-&lt;p&gt;AI Assistants are the core of Intric — customizable AI tools with a chat interface that allow users to interact with organisational knowledge and workflows.&lt;/p&gt;
-&lt;h3&gt;What You Can Do&lt;span class="hx:absolute hx:-mt-20" id="what-you-can-do"&gt;&lt;/span&gt;
-&lt;a href="#what-you-can-do" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intric.ai Support – Documentation</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Documentation on intric.ai Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>AI Assistants</title>
+      <link>http://localhost:1313/docs/functionality/ai-assistants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/ai-assistants/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI Assistants are the core of Intric — customizable AI tools with a chat interface that allow users to interact with organisational knowledge and workflows.&lt;/p&gt;
+&lt;h3&gt;What You Can Do&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-you-can-do&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-you-can-do&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ask questions and get accurate answers based on your organisation’s own data&lt;/li&gt;
 &lt;li&gt;Customise assistants for specific use cases such as &lt;strong&gt;legal&lt;/strong&gt;, &lt;strong&gt;HR&lt;/strong&gt;, or &lt;strong&gt;communications&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Integrate internal knowledge sources via &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; technology&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Components That Define an Assistant&lt;span class="hx:absolute hx:-mt-20" id="components-that-define-an-assistant"&gt;&lt;/span&gt;
-&lt;a href="#components-that-define-an-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Components That Define an Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;components-that-define-an-assistant&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#components-that-define-an-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Language Model:&lt;/strong&gt; Choose from multiple AI models — EU-based, Swedish, or U.S.-based&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; The instruction set that defines how the assistant behaves&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Knowledge:&lt;/strong&gt; The content and data sources the assistant uses to respond&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>First Login</title><link>http://localhost:1313/docs/getting-started/login/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/getting-started/login/</guid><description>
-&lt;h3&gt;How to Log In&lt;span class="hx:absolute hx:-mt-20" id="how-to-log-in"&gt;&lt;/span&gt;
-&lt;a href="#how-to-log-in" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Login to Intric is handled via your organisation’s &lt;strong&gt;SSO system (Single Sign-On)&lt;/strong&gt; — typically integrated with &lt;strong&gt;Microsoft Entra ID&lt;/strong&gt; or &lt;strong&gt;Active Directory&lt;/strong&gt;.&lt;br&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>First Login</title>
+      <link>http://localhost:1313/docs/getting-started/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/getting-started/login/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;How to Log In&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-to-log-in&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-to-log-in&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Login to Intric is handled via your organisation’s &lt;strong&gt;SSO system (Single Sign-On)&lt;/strong&gt; — typically integrated with &lt;strong&gt;Microsoft Entra ID&lt;/strong&gt; or &lt;strong&gt;Active Directory&lt;/strong&gt;.&lt;br&gt;
 Many organisations also have &lt;strong&gt;MFA (multi-factor authentication)&lt;/strong&gt; enabled for additional security.&lt;br&gt;
 Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other organisational systems.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;What You See the First Time You Log In&lt;span class="hx:absolute hx:-mt-20" id="what-you-see-the-first-time-you-log-in"&gt;&lt;/span&gt;
-&lt;a href="#what-you-see-the-first-time-you-log-in" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;What You See the First Time You Log In&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-you-see-the-first-time-you-log-in&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-you-see-the-first-time-you-log-in&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Home Page:&lt;/strong&gt; You’ll arrive at the main interface with your &lt;strong&gt;personal assistant&lt;/strong&gt; at the top.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Personal Chat:&lt;/strong&gt; This is the general chat available to all users — a great place to try out the system for the first time.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Language Model:&lt;/strong&gt; Within the personal chat, you can easily switch the active language model using the menu in the upper right corner.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Available Spaces:&lt;/strong&gt; You’ll see the &lt;strong&gt;Spaces&lt;/strong&gt; (work areas) you’ve been invited to, depending on your role within the organisation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Overview of the Main Menu and Navigation&lt;span class="hx:absolute hx:-mt-20" id="overview-of-the-main-menu-and-navigation"&gt;&lt;/span&gt;
-&lt;a href="#overview-of-the-main-menu-and-navigation" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Left Menu&lt;span class="hx:absolute hx:-mt-20" id="left-menu"&gt;&lt;/span&gt;
-&lt;a href="#left-menu" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h3&gt;Overview of the Main Menu and Navigation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-the-main-menu-and-navigation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview-of-the-main-menu-and-navigation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Left Menu&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;left-menu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#left-menu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Assistants:&lt;/strong&gt; Find and create AI assistants.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Apps:&lt;/strong&gt; Tools for specific tasks, such as transcription.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Knowledge:&lt;/strong&gt; Upload documents and information that assistants can use.&lt;/li&gt;
@@ -36,27 +73,40 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Connect to services like SharePoint, Confluence, etc.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Spaces:&lt;/strong&gt; Collaboration areas for team projects.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Top Menu&lt;span class="hx:absolute hx:-mt-20" id="top-menu"&gt;&lt;/span&gt;
-&lt;a href="#top-menu" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h4&gt;Top Menu&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;top-menu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#top-menu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Spaces:&lt;/strong&gt; Switch between different work areas.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Settings:&lt;/strong&gt; Access your personal settings and account information.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Admin (if you have permission):&lt;/strong&gt; Administrative tools for managing the entire organisation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Your Access Level&lt;span class="hx:absolute hx:-mt-20" id="your-access-level"&gt;&lt;/span&gt;
-&lt;a href="#your-access-level" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When you log in for the first time, you’re automatically assigned one of the following roles:&lt;/p&gt;
+&lt;h3&gt;Your Access Level&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;your-access-level&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#your-access-level&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When you log in for the first time, you’re automatically assigned one of the following roles:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;User:&lt;/strong&gt; Can only use published assistants in the Spaces they’ve been invited to.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Creator:&lt;/strong&gt; Can create their own Spaces and assistants.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Admin:&lt;/strong&gt; Has full access to all administrative features across the organisation.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>How to Add Knowledge to a Space</title><link>http://localhost:1313/docs/guides/add-knowledge-to-space/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/add-knowledge-to-space/</guid><description>
-&lt;h3&gt;Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites"&gt;&lt;/span&gt;
-&lt;a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To add knowledge to a Space, you need to have the &lt;strong&gt;Space Admin&lt;/strong&gt; or &lt;strong&gt;Space Editor&lt;/strong&gt; role.&lt;br&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>How to Add Knowledge to a Space</title>
+      <link>http://localhost:1313/docs/guides/add-knowledge-to-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/add-knowledge-to-space/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Prerequisites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prerequisites&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#prerequisites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To add knowledge to a Space, you need to have the &lt;strong&gt;Space Admin&lt;/strong&gt; or &lt;strong&gt;Space Editor&lt;/strong&gt; role.&lt;br&gt;
 &lt;strong&gt;Space Viewers&lt;/strong&gt; can only use existing assistants and cannot connect new knowledge sources.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Three Ways to Add Knowledge&lt;span class="hx:absolute hx:-mt-20" id="three-ways-to-add-knowledge"&gt;&lt;/span&gt;
-&lt;a href="#three-ways-to-add-knowledge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. Collections&lt;span class="hx:absolute hx:-mt-20" id="1-collections"&gt;&lt;/span&gt;
-&lt;a href="#1-collections" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;h3&gt;Three Ways to Add Knowledge&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;three-ways-to-add-knowledge&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#three-ways-to-add-knowledge&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. Collections&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-collections&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-collections&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Knowledge&lt;/strong&gt; in the left menu.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Collections&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Select &lt;strong&gt;Create Collection&lt;/strong&gt; and choose a text embedding model.&lt;/li&gt;
@@ -65,8 +115,8 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;li&gt;Organize files into structured folders for easy access.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h4&gt;2. Web Pages&lt;span class="hx:absolute hx:-mt-20" id="2-web-pages"&gt;&lt;/span&gt;
-&lt;a href="#2-web-pages" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;h4&gt;2. Web Pages&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-web-pages&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-web-pages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Knowledge → Web Pages&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Connect Web Pages&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Paste the URL of the website you want to connect.&lt;/li&gt;
@@ -80,8 +130,8 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Be specific with your URLs — connect subdomains or pages containing relevant information rather than entire websites.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4&gt;3. Integrations&lt;span class="hx:absolute hx:-mt-20" id="3-integrations"&gt;&lt;/span&gt;
-&lt;a href="#3-integrations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;h4&gt;3. Integrations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-integrations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-integrations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;SharePoint&lt;/strong&gt; and &lt;strong&gt;Confluence&lt;/strong&gt; integrations must first be enabled by an Admin.&lt;/li&gt;
 &lt;li&gt;As a user, go to &lt;strong&gt;Settings → My Account → My Integration → Connect&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Connect your access credentials for each service.&lt;/li&gt;
@@ -89,8 +139,8 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;li&gt;Click &lt;strong&gt;Import Knowledge&lt;/strong&gt; and choose which knowledge base to connect.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;Connecting Knowledge to an Assistant&lt;span class="hx:absolute hx:-mt-20" id="connecting-knowledge-to-an-assistant"&gt;&lt;/span&gt;
-&lt;a href="#connecting-knowledge-to-an-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;After adding knowledge to your Space:&lt;/p&gt;
+&lt;h3&gt;Connecting Knowledge to an Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;connecting-knowledge-to-an-assistant&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#connecting-knowledge-to-an-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;After adding knowledge to your Space:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open the assistant you want to connect the knowledge to.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Edit&lt;/strong&gt; (upper-right corner).&lt;/li&gt;
@@ -98,104 +148,130 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;li&gt;Choose which knowledge source from your Space the assistant should use.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;About RAG Technology&lt;span class="hx:absolute hx:-mt-20" id="about-rag-technology"&gt;&lt;/span&gt;
-&lt;a href="#about-rag-technology" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to perform semantic searches across your connected knowledge.&lt;/p&gt;
+&lt;h3&gt;About RAG Technology&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;about-rag-technology&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#about-rag-technology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to perform semantic searches across your connected knowledge.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When a question is asked, the system automatically finds the most relevant text segments.&lt;/li&gt;
 &lt;li&gt;Only those relevant excerpts are sent to the language model — never entire documents.&lt;/li&gt;
 &lt;li&gt;All knowledge is stored in a &lt;strong&gt;vector database (PGVector)&lt;/strong&gt; for fast and efficient retrieval.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;File Sizes and Limitations&lt;span class="hx:absolute hx:-mt-20" id="file-sizes-and-limitations"&gt;&lt;/span&gt;
-&lt;a href="#file-sizes-and-limitations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Type&lt;/th&gt;
-&lt;th&gt;Max Size&lt;/th&gt;
-&lt;th&gt;Notes&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Text-based files&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Supported: PDF, Word, Excel, PowerPoint, CSV, Markdown, text&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Audio / Video&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;200 MB&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;For transcription and analysis&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Images&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;For reference or documentation&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Roles and Permissions</title><link>http://localhost:1313/docs/settings-and-admin/roles-and-permissions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/settings-and-admin/roles-and-permissions/</guid><description>
-&lt;h2&gt;Roles and Permissions&lt;span class="hx:absolute hx:-mt-20" id="roles-and-permissions"&gt;&lt;/span&gt;
-&lt;a href="#roles-and-permissions" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Overview&lt;span class="hx:absolute hx:-mt-20" id="overview"&gt;&lt;/span&gt;
-&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses a &lt;strong&gt;role-based access model&lt;/strong&gt; at both the &lt;strong&gt;organisation&lt;/strong&gt; and &lt;strong&gt;Space&lt;/strong&gt; levels.&lt;br&gt;
+&lt;h3&gt;File Sizes and Limitations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;file-sizes-and-limitations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#file-sizes-and-limitations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Type&lt;/th&gt;
+          &lt;th&gt;Max Size&lt;/th&gt;
+          &lt;th&gt;Notes&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Text-based files&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Supported: PDF, Word, Excel, PowerPoint, CSV, Markdown, text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Audio / Video&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;200 MB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;For transcription and analysis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Images&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;For reference or documentation&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Roles and Permissions</title>
+      <link>http://localhost:1313/docs/settings-and-admin/roles-and-permissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/settings-and-admin/roles-and-permissions/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Roles and Permissions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roles-and-permissions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roles-and-permissions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses a &lt;strong&gt;role-based access model&lt;/strong&gt; at both the &lt;strong&gt;organisation&lt;/strong&gt; and &lt;strong&gt;Space&lt;/strong&gt; levels.&lt;br&gt;
 This structure ensures secure, delegated control while keeping administration simple.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Organisation-Level Roles&lt;span class="hx:absolute hx:-mt-20" id="organisation-level-roles"&gt;&lt;/span&gt;
-&lt;a href="#organisation-level-roles" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Role&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Admin&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Full administrative rights. Manages all users, system configuration, and integrations.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Creator&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Can create their own &lt;strong&gt;Spaces&lt;/strong&gt;, manage members within them, and assign roles.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Can only use published assistants and tools in Spaces they’ve been invited to.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+&lt;h3&gt;Organisation-Level Roles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;organisation-level-roles&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#organisation-level-roles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Role&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Admin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Full administrative rights. Manages all users, system configuration, and integrations.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Creator&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Can create their own &lt;strong&gt;Spaces&lt;/strong&gt;, manage members within them, and assign roles.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Can only use published assistants and tools in Spaces they’ve been invited to.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3&gt;Space-Level Roles&lt;span class="hx:absolute hx:-mt-20" id="space-level-roles"&gt;&lt;/span&gt;
-&lt;a href="#space-level-roles" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Role&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Space Admin&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Full control over a specific Space, including member management and security level.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Space Editor&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Can connect knowledge sources and create assistants.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Can only use published assistants within that Space.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+&lt;h3&gt;Space-Level Roles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;space-level-roles&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#space-level-roles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Role&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Admin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Full control over a specific Space, including member management and security level.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Editor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Can connect knowledge sources and create assistants.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Can only use published assistants within that Space.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3&gt;Summary&lt;span class="hx:absolute hx:-mt-20" id="summary"&gt;&lt;/span&gt;
-&lt;a href="#summary" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Organisation roles define what users can do globally, while Space roles define what they can do within a specific workspace.&lt;/p&gt;</description></item><item><title>Set Security Classification</title><link>http://localhost:1313/docs/guides/set-security-classification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/set-security-classification/</guid><description>
-&lt;h3&gt;Step 1: Create a Security Classification&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-a-security-classification"&gt;&lt;/span&gt;
-&lt;a href="#step-1-create-a-security-classification" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Summary&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Organisation roles define what users can do globally, while Space roles define what they can do within a specific workspace.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Set Security Classification</title>
+      <link>http://localhost:1313/docs/guides/set-security-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/set-security-classification/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Step 1: Create a Security Classification&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-a-security-classification&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-create-a-security-classification&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Click &lt;strong&gt;Admin&lt;/strong&gt; (top-right).&lt;/li&gt;
 &lt;li&gt;Open &lt;strong&gt;Security Settings&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Create classification levels (e.g., &lt;em&gt;High Security Classification&lt;/em&gt;, &lt;em&gt;Standard Security Classification&lt;/em&gt;).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Map AI Models&lt;span class="hx:absolute hx:-mt-20" id="step-2-map-ai-models"&gt;&lt;/span&gt;
-&lt;a href="#step-2-map-ai-models" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Map AI Models&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-map-ai-models&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-map-ai-models&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Models&lt;/strong&gt; (left menu).&lt;/li&gt;
 &lt;li&gt;Assign which models belong to each classification.
 &lt;ul&gt;
@@ -204,38 +280,64 @@ This structure ensures secure, delegated control while keeping administration si
 &lt;/li&gt;
 &lt;li&gt;Save your settings.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Assign to a Space&lt;span class="hx:absolute hx:-mt-20" id="step-3-assign-to-a-space"&gt;&lt;/span&gt;
-&lt;a href="#step-3-assign-to-a-space" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 3: Assign to a Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-assign-to-a-space&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-assign-to-a-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;In each Space, the &lt;strong&gt;Space Admin&lt;/strong&gt; selects the appropriate classification.&lt;/li&gt;
 &lt;li&gt;Users in that Space can only pick models allowed by that classification.&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Apps</title><link>http://localhost:1313/docs/functionality/apps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/functionality/apps/</guid><description>
-&lt;p&gt;&lt;strong&gt;Apps&lt;/strong&gt; are specialised tools in Intric designed for clearly defined processes and tasks.&lt;/p&gt;
-&lt;h3&gt;Common Use Cases&lt;span class="hx:absolute hx:-mt-20" id="common-use-cases"&gt;&lt;/span&gt;
-&lt;a href="#common-use-cases" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>http://localhost:1313/docs/functionality/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/apps/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Apps&lt;/strong&gt; are specialised tools in Intric designed for clearly defined processes and tasks.&lt;/p&gt;
+&lt;h3&gt;Common Use Cases&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;common-use-cases&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#common-use-cases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Transcribing&lt;/strong&gt; meetings, interviews, or audio files&lt;/li&gt;
 &lt;li&gt;Generating structured outputs from predefined inputs&lt;/li&gt;
 &lt;li&gt;Running repetitive or data-intensive tasks efficiently&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Key Characteristics&lt;span class="hx:absolute hx:-mt-20" id="key-characteristics"&gt;&lt;/span&gt;
-&lt;a href="#key-characteristics" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Key Characteristics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-characteristics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-characteristics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Built on the same core components as assistants&lt;/li&gt;
 &lt;li&gt;Optimised for &lt;strong&gt;single-purpose workflows&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Easy to deploy and share across teams&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Build an Assistant — Focus on the Prompt</title><link>http://localhost:1313/docs/guides/build-assistant-prompt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/build-assistant-prompt/</guid><description>
-&lt;h3&gt;Step 1: Create an Assistant&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-an-assistant"&gt;&lt;/span&gt;
-&lt;a href="#step-1-create-an-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Build an Assistant — Focus on the Prompt</title>
+      <link>http://localhost:1313/docs/guides/build-assistant-prompt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/build-assistant-prompt/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Step 1: Create an Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-an-assistant&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-create-an-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Assistants&lt;/strong&gt; (left menu).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Create Assistant&lt;/strong&gt; (blue button, top-right).&lt;/li&gt;
 &lt;li&gt;Choose a template or &lt;strong&gt;Build from scratch&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Configure Basics&lt;span class="hx:absolute hx:-mt-20" id="step-2-configure-basics"&gt;&lt;/span&gt;
-&lt;a href="#step-2-configure-basics" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Configure Basics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-configure-basics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-configure-basics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Name the assistant.&lt;/li&gt;
 &lt;li&gt;Choose a language model (based on use case &amp;amp; security classification).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Create&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Write an Effective Prompt&lt;span class="hx:absolute hx:-mt-20" id="step-3-write-an-effective-prompt"&gt;&lt;/span&gt;
-&lt;a href="#step-3-write-an-effective-prompt" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Use this structure:&lt;/p&gt;
+&lt;h3&gt;Step 3: Write an Effective Prompt&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-write-an-effective-prompt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-write-an-effective-prompt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Use this structure:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Clearly describe the task and scope.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Who?&lt;/strong&gt; Define the assistant’s role (e.g., “You are an HR specialist…”).&lt;/li&gt;
@@ -245,54 +347,81 @@ This structure ensures secure, delegated control while keeping administration si
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Example prompt&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You are an HR specialist who helps employees with HR-related questions.&lt;br&gt;
+  &lt;p&gt;You are an HR specialist who helps employees with HR-related questions.&lt;br&gt;
 Always respond professionally and reference our policy documents when relevant.&lt;br&gt;
 Structure answers with clear headings and bullet points.&lt;br&gt;
 If you don’t know, ask the user to contact the HR department.&lt;/p&gt;
+
 &lt;/blockquote&gt;
-&lt;h3&gt;Step 4: Test &amp;amp; Iterate&lt;span class="hx:absolute hx:-mt-20" id="step-4-test--iterate"&gt;&lt;/span&gt;
-&lt;a href="#step-4-test--iterate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 4: Test &amp;amp; Iterate&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-4-test--iterate&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-4-test--iterate&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ask diverse questions.&lt;/li&gt;
 &lt;li&gt;Go back to &lt;strong&gt;Edit&lt;/strong&gt; and refine the prompt.&lt;/li&gt;
 &lt;li&gt;Repeat until responses meet expectations.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Security and Model Management</title><link>http://localhost:1313/docs/settings-and-admin/security-and-model-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/settings-and-admin/security-and-model-management/</guid><description>
-&lt;h2&gt;Security and Model Management&lt;span class="hx:absolute hx:-mt-20" id="security-and-model-management"&gt;&lt;/span&gt;
-&lt;a href="#security-and-model-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Security Classification&lt;span class="hx:absolute hx:-mt-20" id="security-classification"&gt;&lt;/span&gt;
-&lt;a href="#security-classification" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins can define &lt;strong&gt;security classification levels&lt;/strong&gt; (for example: &lt;em&gt;High Security Classification&lt;/em&gt;) to manage data exposure and model usage.&lt;/p&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Security and Model Management</title>
+      <link>http://localhost:1313/docs/settings-and-admin/security-and-model-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/settings-and-admin/security-and-model-management/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Security and Model Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;security-and-model-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#security-and-model-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Security Classification&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;security-classification&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#security-classification&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins can define &lt;strong&gt;security classification levels&lt;/strong&gt; (for example: &lt;em&gt;High Security Classification&lt;/em&gt;) to manage data exposure and model usage.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Each classification maps to specific AI models allowed for that level.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Space Admins&lt;/strong&gt; then select a classification level rather than choosing models directly.&lt;/li&gt;
 &lt;li&gt;Ensures model usage stays compliant with organisational and regulatory policies.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Model Control&lt;span class="hx:absolute hx:-mt-20" id="model-control"&gt;&lt;/span&gt;
-&lt;a href="#model-control" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins can configure which &lt;strong&gt;AI models&lt;/strong&gt; are active and available across the organisation.&lt;/p&gt;
+&lt;h3&gt;Model Control&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;model-control&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#model-control&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins can configure which &lt;strong&gt;AI models&lt;/strong&gt; are active and available across the organisation.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Enables fine-grained control over which models can process data.&lt;/li&gt;
 &lt;li&gt;Helps enforce &lt;strong&gt;data residency&lt;/strong&gt; and &lt;strong&gt;regulatory compliance&lt;/strong&gt; (EU vs. U.S. models).&lt;/li&gt;
 &lt;li&gt;Managed via &lt;strong&gt;Admin → Models&lt;/strong&gt; in the interface.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Personal Assistant Configuration&lt;span class="hx:absolute hx:-mt-20" id="personal-assistant-configuration"&gt;&lt;/span&gt;
-&lt;a href="#personal-assistant-configuration" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under &lt;strong&gt;Admin → Personal Assistant&lt;/strong&gt;, you can:&lt;/p&gt;
+&lt;h3&gt;Personal Assistant Configuration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;personal-assistant-configuration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#personal-assistant-configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under &lt;strong&gt;Admin → Personal Assistant&lt;/strong&gt;, you can:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Choose which language models are available for the personal assistant.&lt;/li&gt;
 &lt;li&gt;Control which tools and extensions are enabled by default.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Security Overview</title><link>http://localhost:1313/docs/getting-started/security-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/getting-started/security-overview/</guid><description>
-&lt;h3&gt;Data Storage &amp;amp; Residency&lt;span class="hx:absolute hx:-mt-20" id="data-storage--residency"&gt;&lt;/span&gt;
-&lt;a href="#data-storage--residency" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Security Overview</title>
+      <link>http://localhost:1313/docs/getting-started/security-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/getting-started/security-overview/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Data Storage &amp;amp; Residency&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-storage--residency&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-storage--residency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;All data stored in Sweden&lt;/strong&gt; with &lt;strong&gt;GleSYS AB&lt;/strong&gt; (ISO/IEC 27001 certified).&lt;/li&gt;
 &lt;li&gt;Option to use &lt;strong&gt;your own cloud&lt;/strong&gt; or &lt;strong&gt;on-premises&lt;/strong&gt; deployment.&lt;/li&gt;
 &lt;li&gt;Full control over &lt;strong&gt;data residency&lt;/strong&gt; and &lt;strong&gt;access&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Use of U.S. Models (Optional)&lt;span class="hx:absolute hx:-mt-20" id="use-of-us-models-optional"&gt;&lt;/span&gt;
-&lt;a href="#use-of-us-models-optional" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Use of U.S. Models (Optional)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;use-of-us-models-optional&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#use-of-us-models-optional&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;If you choose U.S. models (e.g., ChatGPT, Claude), only &lt;strong&gt;limited, relevant text&lt;/strong&gt; is sent using &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; — &lt;strong&gt;not entire documents&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Data is then processed under the model provider’s terms.&lt;/li&gt;
 &lt;li&gt;Organisations can &lt;strong&gt;restrict usage&lt;/strong&gt; to &lt;strong&gt;EU/Swedish models&lt;/strong&gt; only.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Approach to Personal Data&lt;span class="hx:absolute hx:-mt-20" id="approach-to-personal-data"&gt;&lt;/span&gt;
-&lt;a href="#approach-to-personal-data" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Approach to Personal Data&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;approach-to-personal-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#approach-to-personal-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;No unreliable “automatic PII filtering.” Instead, Intric emphasises &lt;strong&gt;secure defaults&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Data residency in Sweden.&lt;/li&gt;
@@ -302,21 +431,21 @@ If you don’t know, ask the user to contact the HR department.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Minimises risk even if filtering techniques fail.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Encryption &amp;amp; Platform Security&lt;span class="hx:absolute hx:-mt-20" id="encryption--platform-security"&gt;&lt;/span&gt;
-&lt;a href="#encryption--platform-security" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Encryption &amp;amp; Platform Security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;encryption--platform-security&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#encryption--platform-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;In transit:&lt;/strong&gt; TLS &lt;strong&gt;1.2/1.3&lt;/strong&gt; for all traffic (including internal APIs).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;At rest:&lt;/strong&gt; &lt;strong&gt;AES-256&lt;/strong&gt; encryption for stored data.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Secrets:&lt;/strong&gt; API keys &lt;strong&gt;hashed with SHA-256&lt;/strong&gt;, never stored in plain text.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Confidential Computing (NVIDIA):&lt;/strong&gt; Supported for Intric-hosted open-source models — data remains encrypted &lt;strong&gt;even during processing&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Backup &amp;amp; Restore&lt;span class="hx:absolute hx:-mt-20" id="backup--restore"&gt;&lt;/span&gt;
-&lt;a href="#backup--restore" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Backup &amp;amp; Restore&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;backup--restore&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#backup--restore&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Daily full backups&lt;/strong&gt; of the instance.&lt;/li&gt;
 &lt;li&gt;Stored separately at GleSYS.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Retention: 14 days&lt;/strong&gt; for continuity and protection.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Access Control &amp;amp; Authentication&lt;span class="hx:absolute hx:-mt-20" id="access-control--authentication"&gt;&lt;/span&gt;
-&lt;a href="#access-control--authentication" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Access Control &amp;amp; Authentication&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;access-control--authentication&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#access-control--authentication&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;RBAC&lt;/strong&gt; at both &lt;strong&gt;organisation&lt;/strong&gt; and &lt;strong&gt;Space&lt;/strong&gt; levels:
 &lt;ul&gt;
 &lt;li&gt;Org: &lt;strong&gt;Admin / Creator / User&lt;/strong&gt;&lt;/li&gt;
@@ -325,26 +454,26 @@ If you don’t know, ask the user to contact the HR department.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SSO&lt;/strong&gt; via Microsoft &lt;strong&gt;Entra ID&lt;/strong&gt; / &lt;strong&gt;Active Directory&lt;/strong&gt;; &lt;strong&gt;MFA&lt;/strong&gt; commonly enforced.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Information Security Management&lt;span class="hx:absolute hx:-mt-20" id="information-security-management"&gt;&lt;/span&gt;
-&lt;a href="#information-security-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Information Security Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;information-security-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#information-security-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Security framework aligned with &lt;strong&gt;ISO/IEC 27001&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Secure SDLC&lt;/strong&gt;, separated &lt;strong&gt;test&lt;/strong&gt; and &lt;strong&gt;production&lt;/strong&gt; environments.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CTO&lt;/strong&gt; holds overall responsibility for information security.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Regular penetration tests&lt;/strong&gt; and continuous monitoring.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Logging, Audit &amp;amp; Transparency&lt;span class="hx:absolute hx:-mt-20" id="logging-audit--transparency"&gt;&lt;/span&gt;
-&lt;a href="#logging-audit--transparency" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Logging, Audit &amp;amp; Transparency&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;logging-audit--transparency&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#logging-audit--transparency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Advanced logging&lt;/strong&gt; with configurable retention (e.g., &lt;strong&gt;30 / 90 days&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;Full visibility into &lt;strong&gt;what is sent to models&lt;/strong&gt; for maximum traceability.&lt;/li&gt;
 &lt;li&gt;Admins control logging settings.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Legal &amp;amp; Compliance&lt;span class="hx:absolute hx:-mt-20" id="legal--compliance"&gt;&lt;/span&gt;
-&lt;a href="#legal--compliance" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Legal &amp;amp; Compliance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;legal--compliance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#legal--compliance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Data Processing Agreement (DPA)&lt;/strong&gt; set up per &lt;strong&gt;Swedish Association of Local Authorities and Regions (SKR)&lt;/strong&gt; template.&lt;/li&gt;
 &lt;li&gt;Ensures &lt;strong&gt;GDPR compliance&lt;/strong&gt; and clear contractual responsibilities.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Data Retention Policies&lt;span class="hx:absolute hx:-mt-20" id="data-retention-policies"&gt;&lt;/span&gt;
-&lt;a href="#data-retention-policies" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Data Retention Policies&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-retention-policies&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-retention-policies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Admins can set &lt;strong&gt;per-assistant&lt;/strong&gt; retention:
 &lt;ul&gt;
 &lt;li&gt;Automatic deletion of messages after a defined period.&lt;/li&gt;
@@ -352,132 +481,210 @@ If you don’t know, ask the user to contact the HR department.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Recommended Practices&lt;span class="hx:absolute hx:-mt-20" id="recommended-practices"&gt;&lt;/span&gt;
-&lt;a href="#recommended-practices" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Recommended Practices&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;recommended-practices&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recommended-practices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;For sensitive data, use &lt;strong&gt;EU/Swedish models&lt;/strong&gt; (e.g., &lt;strong&gt;Llama 3.3 SWE&lt;/strong&gt;, &lt;strong&gt;Gemma 3 SWE&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;Define &lt;strong&gt;security classifications&lt;/strong&gt; and enforce via model allow-lists.&lt;/li&gt;
 &lt;li&gt;Use &lt;strong&gt;Spaces&lt;/strong&gt; to isolate projects/departments and data domains.&lt;/li&gt;
 &lt;li&gt;Enable &lt;strong&gt;appropriate logging&lt;/strong&gt; for auditability.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Educate users&lt;/strong&gt; on differences between EU and U.S. model options.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Add Knowledge to an Assistant</title><link>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</guid><description>
-&lt;h3&gt;Step 1: Prepare Knowledge in Your Space&lt;span class="hx:absolute hx:-mt-20" id="step-1-prepare-knowledge-in-your-space"&gt;&lt;/span&gt;
-&lt;a href="#step-1-prepare-knowledge-in-your-space" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Choose one or more methods under &lt;strong&gt;Knowledge&lt;/strong&gt; (left menu):&lt;/p&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Add Knowledge to an Assistant</title>
+      <link>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/add-knowledge-to-assistant/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Step 1: Prepare Knowledge in Your Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-prepare-knowledge-in-your-space&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-prepare-knowledge-in-your-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Choose one or more methods under &lt;strong&gt;Knowledge&lt;/strong&gt; (left menu):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Collections:&lt;/strong&gt; Upload documents/spreadsheets/presentations.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Web Pages:&lt;/strong&gt; Connect sites (basic crawl or sitemap crawl).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Connect &lt;strong&gt;SharePoint&lt;/strong&gt; / &lt;strong&gt;Confluence&lt;/strong&gt; (Admin must enable first).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 2: Connect Knowledge to the Assistant&lt;span class="hx:absolute hx:-mt-20" id="step-2-connect-knowledge-to-the-assistant"&gt;&lt;/span&gt;
-&lt;a href="#step-2-connect-knowledge-to-the-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Connect Knowledge to the Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-connect-knowledge-to-the-assistant&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-connect-knowledge-to-the-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open your assistant → &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Add Knowledge&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Select the relevant knowledge sources from your Space.&lt;/li&gt;
 &lt;li&gt;Save.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Test the Integration&lt;span class="hx:absolute hx:-mt-20" id="step-3-test-the-integration"&gt;&lt;/span&gt;
-&lt;a href="#step-3-test-the-integration" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 3: Test the Integration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-test-the-integration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-test-the-integration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ask questions that require the uploaded knowledge.&lt;/li&gt;
 &lt;li&gt;Check that sources are referenced correctly.&lt;/li&gt;
 &lt;li&gt;Adjust sources or settings if needed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Notes on RAG&lt;span class="hx:absolute hx:-mt-20" id="notes-on-rag"&gt;&lt;/span&gt;
-&lt;a href="#notes-on-rag" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to semantically search your knowledge.&lt;br&gt;
-Only the most relevant text chunks are sent to the model (not entire documents); data is stored in a vector DB (&lt;strong&gt;PGVector&lt;/strong&gt;) for fast retrieval.&lt;/p&gt;</description></item><item><title>Data Management and Integrations</title><link>http://localhost:1313/docs/settings-and-admin/data-and-integrations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/settings-and-admin/data-and-integrations/</guid><description>
-&lt;h2&gt;Data Management and Integrations&lt;span class="hx:absolute hx:-mt-20" id="data-management-and-integrations"&gt;&lt;/span&gt;
-&lt;a href="#data-management-and-integrations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Activating Integrations&lt;span class="hx:absolute hx:-mt-20" id="activating-integrations"&gt;&lt;/span&gt;
-&lt;a href="#activating-integrations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Certain integrations must be enabled by an &lt;strong&gt;Admin&lt;/strong&gt; before use.&lt;/p&gt;
+&lt;h4&gt;Notes on RAG&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;notes-on-rag&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#notes-on-rag&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; to semantically search your knowledge.&lt;br&gt;
+Only the most relevant text chunks are sent to the model (not entire documents); data is stored in a vector DB (&lt;strong&gt;PGVector&lt;/strong&gt;) for fast retrieval.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Data Management and Integrations</title>
+      <link>http://localhost:1313/docs/settings-and-admin/data-and-integrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/settings-and-admin/data-and-integrations/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Data Management and Integrations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-management-and-integrations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-management-and-integrations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Activating Integrations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;activating-integrations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#activating-integrations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Certain integrations must be enabled by an &lt;strong&gt;Admin&lt;/strong&gt; before use.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Navigate to &lt;strong&gt;Admin → Integrations → Enable Integration&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Supported integrations include &lt;strong&gt;SharePoint&lt;/strong&gt;, &lt;strong&gt;Confluence&lt;/strong&gt;, and others.&lt;/li&gt;
 &lt;li&gt;Individual users then connect their own access credentials after activation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Data Retention Policy&lt;span class="hx:absolute hx:-mt-20" id="data-retention-policy"&gt;&lt;/span&gt;
-&lt;a href="#data-retention-policy" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins can configure automatic message deletion for compliance and storage management.&lt;/p&gt;
+&lt;h3&gt;Data Retention Policy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-retention-policy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-retention-policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins can configure automatic message deletion for compliance and storage management.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Set retention time per assistant in edit mode.&lt;/li&gt;
 &lt;li&gt;Helps maintain a secure and GDPR-compliant data lifecycle.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Insights and Monitoring&lt;span class="hx:absolute hx:-mt-20" id="insights-and-monitoring"&gt;&lt;/span&gt;
-&lt;a href="#insights-and-monitoring" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;Insights&lt;/strong&gt; panel provides visibility into platform usage:&lt;/p&gt;
+&lt;h3&gt;Insights and Monitoring&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;insights-and-monitoring&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#insights-and-monitoring&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;Insights&lt;/strong&gt; panel provides visibility into platform usage:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Usage statistics:&lt;/strong&gt; Total number of conversations and questions organisation-wide&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage monitoring:&lt;/strong&gt; See space utilisation under &lt;em&gt;Usage&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Token consumption:&lt;/strong&gt; Track costs and usage across AI models&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Logging and Traceability&lt;span class="hx:absolute hx:-mt-20" id="logging-and-traceability"&gt;&lt;/span&gt;
-&lt;a href="#logging-and-traceability" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Logging and Traceability&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;logging-and-traceability&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#logging-and-traceability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Configurable log retention periods (e.g. 30 or 90 days).&lt;/li&gt;
 &lt;li&gt;Full transparency on what data is sent to models.&lt;/li&gt;
 &lt;li&gt;Enables end-to-end traceability and auditing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Widget Management&lt;span class="hx:absolute hx:-mt-20" id="widget-management"&gt;&lt;/span&gt;
-&lt;a href="#widget-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Widget Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;widget-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#widget-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Only &lt;strong&gt;Admins&lt;/strong&gt; can create or deploy widgets to ensure secure embedding.&lt;/li&gt;
 &lt;li&gt;Prevents unintentional exposure of sensitive data.&lt;/li&gt;
-&lt;li&gt;To update allowed domains, contact &lt;strong&gt;&lt;a href="mailto:support@intric.ai"&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;To update allowed domains, contact &lt;strong&gt;&lt;a href=&#34;mailto:support@intric.ai&#34;&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Technical Settings and Group Integrations&lt;span class="hx:absolute hx:-mt-20" id="technical-settings-and-group-integrations"&gt;&lt;/span&gt;
-&lt;a href="#technical-settings-and-group-integrations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Technical Settings and Group Integrations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;technical-settings-and-group-integrations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#technical-settings-and-group-integrations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Manage access through existing &lt;strong&gt;AD or user groups&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Automatically assign Space access based on group membership.&lt;/li&gt;
-&lt;li&gt;For configuration assistance, contact &lt;strong&gt;&lt;a href="mailto:support@intric.ai"&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Knowledge Management</title><link>http://localhost:1313/docs/functionality/knowledge-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/functionality/knowledge-management/</guid><description>
-&lt;p&gt;The &lt;strong&gt;Knowledge&lt;/strong&gt; section lets you integrate, structure, and maintain the data that powers your assistants.&lt;/p&gt;
-&lt;h3&gt;Ways to Add Knowledge&lt;span class="hx:absolute hx:-mt-20" id="ways-to-add-knowledge"&gt;&lt;/span&gt;
-&lt;a href="#ways-to-add-knowledge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;For configuration assistance, contact &lt;strong&gt;&lt;a href=&#34;mailto:support@intric.ai&#34;&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Knowledge Management</title>
+      <link>http://localhost:1313/docs/functionality/knowledge-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/knowledge-management/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Knowledge&lt;/strong&gt; section lets you integrate, structure, and maintain the data that powers your assistants.&lt;/p&gt;
+&lt;h3&gt;Ways to Add Knowledge&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ways-to-add-knowledge&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ways-to-add-knowledge&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Collections:&lt;/strong&gt; Upload and organise documents, spreadsheets, and presentations&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Web Pages:&lt;/strong&gt; Connect websites and automatically crawl their content&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Connect directly to systems like &lt;strong&gt;SharePoint&lt;/strong&gt;, &lt;strong&gt;Confluence&lt;/strong&gt;, and more&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;How It Works&lt;span class="hx:absolute hx:-mt-20" id="how-it-works"&gt;&lt;/span&gt;
-&lt;a href="#how-it-works" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; — meaning the system searches semantically across all connected sources to find relevant information before generating a response.&lt;br&gt;
-This ensures answers are accurate, contextual, and based on your own trusted data.&lt;/p&gt;</description></item><item><title>Collaboration</title><link>http://localhost:1313/docs/functionality/collaboration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/functionality/collaboration/</guid><description>
-&lt;p&gt;Intric is designed for teamwork — enabling secure, role-based collaboration through &lt;strong&gt;Spaces&lt;/strong&gt; and shared templates.&lt;/p&gt;
-&lt;h3&gt;Spaces (Workspaces)&lt;span class="hx:absolute hx:-mt-20" id="spaces-workspaces"&gt;&lt;/span&gt;
-&lt;a href="#spaces-workspaces" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;How It Works&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-it-works&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-it-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; — meaning the system searches semantically across all connected sources to find relevant information before generating a response.&lt;br&gt;
+This ensures answers are accurate, contextual, and based on your own trusted data.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/docs/functionality/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/collaboration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Intric is designed for teamwork — enabling secure, role-based collaboration through &lt;strong&gt;Spaces&lt;/strong&gt; and shared templates.&lt;/p&gt;
+&lt;h3&gt;Spaces (Workspaces)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;spaces-workspaces&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#spaces-workspaces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Collaborative environments for teams to manage assistants and knowledge&lt;/li&gt;
 &lt;li&gt;Role-based access: &lt;strong&gt;Space Admin&lt;/strong&gt;, &lt;strong&gt;Space Editor&lt;/strong&gt;, &lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Organise by team, project, or function&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Sharing and Templates&lt;span class="hx:absolute hx:-mt-20" id="sharing-and-templates"&gt;&lt;/span&gt;
-&lt;a href="#sharing-and-templates" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Sharing and Templates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sharing-and-templates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sharing-and-templates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Share assistants across different departments or organisations&lt;/li&gt;
 &lt;li&gt;Use pre-built templates for common public sector and enterprise use cases&lt;/li&gt;
 &lt;li&gt;Create your own templates to standardise best practices&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Share an Assistant</title><link>http://localhost:1313/docs/guides/share-assistant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/share-assistant/</guid><description>
-&lt;h3&gt;Step 1: Create a Share Link&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-a-share-link"&gt;&lt;/span&gt;
-&lt;a href="#step-1-create-a-share-link" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Share an Assistant</title>
+      <link>http://localhost:1313/docs/guides/share-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/share-assistant/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Step 1: Create a Share Link&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-a-share-link&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-create-a-share-link&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open the assistant to share.&lt;/li&gt;
 &lt;li&gt;Click the &lt;strong&gt;Share&lt;/strong&gt; icon (near the top-right).&lt;/li&gt;
 &lt;li&gt;Choose &lt;strong&gt;Create share link&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Copy the generated link (and code, if shown).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Send to Recipient&lt;span class="hx:absolute hx:-mt-20" id="step-2-send-to-recipient"&gt;&lt;/span&gt;
-&lt;a href="#step-2-send-to-recipient" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 2: Send to Recipient&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-send-to-recipient&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-send-to-recipient&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Send the link to the recipient.&lt;/li&gt;
 &lt;li&gt;The recipient opens the link and copies the share code displayed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 3: Import (Recipient)&lt;span class="hx:absolute hx:-mt-20" id="step-3-import-recipient"&gt;&lt;/span&gt;
-&lt;a href="#step-3-import-recipient" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 3: Import (Recipient)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-import-recipient&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-import-recipient&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;In their Space, click the arrow next to &lt;strong&gt;Create Assistant&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Select &lt;strong&gt;Import Assistant&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Paste the share code.&lt;/li&gt;
 &lt;li&gt;The assistant (name &amp;amp; prompt) is imported.&lt;br&gt;
 &lt;em&gt;Note: knowledge and attachments are &lt;strong&gt;not&lt;/strong&gt; included.&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Create and Manage Spaces</title><link>http://localhost:1313/docs/guides/create-and-manage-spaces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/create-and-manage-spaces/</guid><description>
-&lt;h3&gt;Step 1: Create a Space&lt;span class="hx:absolute hx:-mt-20" id="step-1-create-a-space"&gt;&lt;/span&gt;
-&lt;a href="#step-1-create-a-space" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Create and Manage Spaces</title>
+      <link>http://localhost:1313/docs/guides/create-and-manage-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/create-and-manage-spaces/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Step 1: Create a Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-create-a-space&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-create-a-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open &lt;strong&gt;Spaces&lt;/strong&gt; (top menu).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Create Space&lt;/strong&gt; (blue button).&lt;/li&gt;
 &lt;li&gt;Name and describe the Space.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 2: Invite Members&lt;span class="hx:absolute hx:-mt-20" id="step-2-invite-members"&gt;&lt;/span&gt;
-&lt;a href="#step-2-invite-members" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Invite Members&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-invite-members&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-invite-members&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Go to &lt;strong&gt;Members&lt;/strong&gt; (left menu of the Space).&lt;/li&gt;
 &lt;li&gt;Click &lt;strong&gt;Invite users&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Assign roles:
@@ -488,20 +695,33 @@ This ensures answers are accurate, contextual, and based on your own trusted dat
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Step 3: Organise Assistants&lt;span class="hx:absolute hx:-mt-20" id="step-3-organise-assistants"&gt;&lt;/span&gt;
-&lt;a href="#step-3-organise-assistants" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 3: Organise Assistants&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-organise-assistants&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-organise-assistants&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Create assistants within the Space.&lt;/li&gt;
 &lt;li&gt;Move assistants between Spaces (three dots → &lt;strong&gt;Move&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Publish&lt;/strong&gt; assistants to make them available to Space Viewers.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Activate Tools (Additional Capabilities)</title><link>http://localhost:1313/docs/guides/activate-tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/guides/activate-tools/</guid><description>
-&lt;h3&gt;Step 1: Check Model Compatibility&lt;span class="hx:absolute hx:-mt-20" id="step-1-check-model-compatibility"&gt;&lt;/span&gt;
-&lt;a href="#step-1-check-model-compatibility" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Activate Tools (Additional Capabilities)</title>
+      <link>http://localhost:1313/docs/guides/activate-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/activate-tools/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Step 1: Check Model Compatibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-check-model-compatibility&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-check-model-compatibility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Ensure your chosen model supports tools.&lt;/li&gt;
 &lt;li&gt;Models like &lt;strong&gt;GPT-4&lt;/strong&gt;, &lt;strong&gt;Claude&lt;/strong&gt;, and &lt;strong&gt;Mistral&lt;/strong&gt; generally support tools.&lt;/li&gt;
 &lt;li&gt;Many open-source models (e.g., some &lt;strong&gt;Llama&lt;/strong&gt; variants) may not support tool use.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 2: Enable Tools on the Assistant&lt;span class="hx:absolute hx:-mt-20" id="step-2-enable-tools-on-the-assistant"&gt;&lt;/span&gt;
-&lt;a href="#step-2-enable-tools-on-the-assistant" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Step 2: Enable Tools on the Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-enable-tools-on-the-assistant&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-enable-tools-on-the-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Open the assistant → &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Scroll to &lt;strong&gt;Additional Capabilities&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Toggle desired tools, e.g.:&lt;/li&gt;
@@ -512,8 +732,14 @@ This ensures answers are accurate, contextual, and based on your own trusted dat
 &lt;li&gt;&lt;strong&gt;SCB:&lt;/strong&gt; Query Statistics Sweden (SCB) data.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kolada:&lt;/strong&gt; Query Kolada’s municipal indicators.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Step 3: Test Functionality&lt;span class="hx:absolute hx:-mt-20" id="step-3-test-functionality"&gt;&lt;/span&gt;
-&lt;a href="#step-3-test-functionality" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Step 3: Test Functionality&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-test-functionality&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-test-functionality&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Try each enabled tool with a small task.&lt;/li&gt;
 &lt;li&gt;Note that tools may affect response time and cost.&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

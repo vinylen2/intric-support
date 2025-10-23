@@ -1,9 +1,11 @@
 local_backend: true
 
 backend:
-  name: git            # use local git backend for Sveltia/Decap with proxy
+  name: github
   repo: vinylen2/intric-support
   branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
