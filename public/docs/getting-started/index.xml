@@ -1,20 +1,44 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intric.ai Support – Introduction to Intric</title><link>http://localhost:1313/docs/getting-started/</link><description>Recent content in Introduction to Intric on intric.ai Support</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/docs/getting-started/index.xml" rel="self" type="application/rss+xml"/><item><title>First Login</title><link>http://localhost:1313/docs/getting-started/login/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/getting-started/login/</guid><description>
-&lt;h3&gt;How to Log In&lt;span class="hx:absolute hx:-mt-20" id="how-to-log-in"&gt;&lt;/span&gt;
-&lt;a href="#how-to-log-in" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Login to Intric is handled via your organisation’s &lt;strong&gt;SSO system (Single Sign-On)&lt;/strong&gt; — typically integrated with &lt;strong&gt;Microsoft Entra ID&lt;/strong&gt; or &lt;strong&gt;Active Directory&lt;/strong&gt;.&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intric.ai Support – Introduction to Intric</title>
+    <link>http://localhost:1313/docs/getting-started/</link>
+    <description>Recent content in Introduction to Intric on intric.ai Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>First Login</title>
+      <link>http://localhost:1313/docs/getting-started/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/getting-started/login/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;How to Log In&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-to-log-in&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-to-log-in&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Login to Intric is handled via your organisation’s &lt;strong&gt;SSO system (Single Sign-On)&lt;/strong&gt; — typically integrated with &lt;strong&gt;Microsoft Entra ID&lt;/strong&gt; or &lt;strong&gt;Active Directory&lt;/strong&gt;.&lt;br&gt;
 Many organisations also have &lt;strong&gt;MFA (multi-factor authentication)&lt;/strong&gt; enabled for additional security.&lt;br&gt;
 Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other organisational systems.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;What You See the First Time You Log In&lt;span class="hx:absolute hx:-mt-20" id="what-you-see-the-first-time-you-log-in"&gt;&lt;/span&gt;
-&lt;a href="#what-you-see-the-first-time-you-log-in" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;What You See the First Time You Log In&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-you-see-the-first-time-you-log-in&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-you-see-the-first-time-you-log-in&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Home Page:&lt;/strong&gt; You’ll arrive at the main interface with your &lt;strong&gt;personal assistant&lt;/strong&gt; at the top.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Personal Chat:&lt;/strong&gt; This is the general chat available to all users — a great place to try out the system for the first time.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Language Model:&lt;/strong&gt; Within the personal chat, you can easily switch the active language model using the menu in the upper right corner.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Available Spaces:&lt;/strong&gt; You’ll see the &lt;strong&gt;Spaces&lt;/strong&gt; (work areas) you’ve been invited to, depending on your role within the organisation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Overview of the Main Menu and Navigation&lt;span class="hx:absolute hx:-mt-20" id="overview-of-the-main-menu-and-navigation"&gt;&lt;/span&gt;
-&lt;a href="#overview-of-the-main-menu-and-navigation" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Left Menu&lt;span class="hx:absolute hx:-mt-20" id="left-menu"&gt;&lt;/span&gt;
-&lt;a href="#left-menu" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h3&gt;Overview of the Main Menu and Navigation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-the-main-menu-and-navigation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview-of-the-main-menu-and-navigation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Left Menu&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;left-menu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#left-menu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Assistants:&lt;/strong&gt; Find and create AI assistants.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Apps:&lt;/strong&gt; Tools for specific tasks, such as transcription.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Knowledge:&lt;/strong&gt; Upload documents and information that assistants can use.&lt;/li&gt;
@@ -23,34 +47,47 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Connect to services like SharePoint, Confluence, etc.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Spaces:&lt;/strong&gt; Collaboration areas for team projects.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Top Menu&lt;span class="hx:absolute hx:-mt-20" id="top-menu"&gt;&lt;/span&gt;
-&lt;a href="#top-menu" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h4&gt;Top Menu&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;top-menu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#top-menu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Spaces:&lt;/strong&gt; Switch between different work areas.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Settings:&lt;/strong&gt; Access your personal settings and account information.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Admin (if you have permission):&lt;/strong&gt; Administrative tools for managing the entire organisation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Your Access Level&lt;span class="hx:absolute hx:-mt-20" id="your-access-level"&gt;&lt;/span&gt;
-&lt;a href="#your-access-level" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When you log in for the first time, you’re automatically assigned one of the following roles:&lt;/p&gt;
+&lt;h3&gt;Your Access Level&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;your-access-level&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#your-access-level&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When you log in for the first time, you’re automatically assigned one of the following roles:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;User:&lt;/strong&gt; Can only use published assistants in the Spaces they’ve been invited to.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Creator:&lt;/strong&gt; Can create their own Spaces and assistants.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Admin:&lt;/strong&gt; Has full access to all administrative features across the organisation.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Security Overview</title><link>http://localhost:1313/docs/getting-started/security-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/getting-started/security-overview/</guid><description>
-&lt;h3&gt;Data Storage &amp;amp; Residency&lt;span class="hx:absolute hx:-mt-20" id="data-storage--residency"&gt;&lt;/span&gt;
-&lt;a href="#data-storage--residency" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Security Overview</title>
+      <link>http://localhost:1313/docs/getting-started/security-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/getting-started/security-overview/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Data Storage &amp;amp; Residency&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-storage--residency&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-storage--residency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;All data stored in Sweden&lt;/strong&gt; with &lt;strong&gt;GleSYS AB&lt;/strong&gt; (ISO/IEC 27001 certified).&lt;/li&gt;
 &lt;li&gt;Option to use &lt;strong&gt;your own cloud&lt;/strong&gt; or &lt;strong&gt;on-premises&lt;/strong&gt; deployment.&lt;/li&gt;
 &lt;li&gt;Full control over &lt;strong&gt;data residency&lt;/strong&gt; and &lt;strong&gt;access&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Use of U.S. Models (Optional)&lt;span class="hx:absolute hx:-mt-20" id="use-of-us-models-optional"&gt;&lt;/span&gt;
-&lt;a href="#use-of-us-models-optional" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Use of U.S. Models (Optional)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;use-of-us-models-optional&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#use-of-us-models-optional&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;If you choose U.S. models (e.g., ChatGPT, Claude), only &lt;strong&gt;limited, relevant text&lt;/strong&gt; is sent using &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; — &lt;strong&gt;not entire documents&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Data is then processed under the model provider’s terms.&lt;/li&gt;
 &lt;li&gt;Organisations can &lt;strong&gt;restrict usage&lt;/strong&gt; to &lt;strong&gt;EU/Swedish models&lt;/strong&gt; only.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Approach to Personal Data&lt;span class="hx:absolute hx:-mt-20" id="approach-to-personal-data"&gt;&lt;/span&gt;
-&lt;a href="#approach-to-personal-data" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Approach to Personal Data&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;approach-to-personal-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#approach-to-personal-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;No unreliable “automatic PII filtering.” Instead, Intric emphasises &lt;strong&gt;secure defaults&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Data residency in Sweden.&lt;/li&gt;
@@ -60,21 +97,21 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;/li&gt;
 &lt;li&gt;Minimises risk even if filtering techniques fail.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Encryption &amp;amp; Platform Security&lt;span class="hx:absolute hx:-mt-20" id="encryption--platform-security"&gt;&lt;/span&gt;
-&lt;a href="#encryption--platform-security" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Encryption &amp;amp; Platform Security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;encryption--platform-security&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#encryption--platform-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;In transit:&lt;/strong&gt; TLS &lt;strong&gt;1.2/1.3&lt;/strong&gt; for all traffic (including internal APIs).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;At rest:&lt;/strong&gt; &lt;strong&gt;AES-256&lt;/strong&gt; encryption for stored data.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Secrets:&lt;/strong&gt; API keys &lt;strong&gt;hashed with SHA-256&lt;/strong&gt;, never stored in plain text.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Confidential Computing (NVIDIA):&lt;/strong&gt; Supported for Intric-hosted open-source models — data remains encrypted &lt;strong&gt;even during processing&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Backup &amp;amp; Restore&lt;span class="hx:absolute hx:-mt-20" id="backup--restore"&gt;&lt;/span&gt;
-&lt;a href="#backup--restore" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Backup &amp;amp; Restore&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;backup--restore&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#backup--restore&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Daily full backups&lt;/strong&gt; of the instance.&lt;/li&gt;
 &lt;li&gt;Stored separately at GleSYS.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Retention: 14 days&lt;/strong&gt; for continuity and protection.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Access Control &amp;amp; Authentication&lt;span class="hx:absolute hx:-mt-20" id="access-control--authentication"&gt;&lt;/span&gt;
-&lt;a href="#access-control--authentication" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Access Control &amp;amp; Authentication&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;access-control--authentication&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#access-control--authentication&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;RBAC&lt;/strong&gt; at both &lt;strong&gt;organisation&lt;/strong&gt; and &lt;strong&gt;Space&lt;/strong&gt; levels:
 &lt;ul&gt;
 &lt;li&gt;Org: &lt;strong&gt;Admin / Creator / User&lt;/strong&gt;&lt;/li&gt;
@@ -83,26 +120,26 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SSO&lt;/strong&gt; via Microsoft &lt;strong&gt;Entra ID&lt;/strong&gt; / &lt;strong&gt;Active Directory&lt;/strong&gt;; &lt;strong&gt;MFA&lt;/strong&gt; commonly enforced.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Information Security Management&lt;span class="hx:absolute hx:-mt-20" id="information-security-management"&gt;&lt;/span&gt;
-&lt;a href="#information-security-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Information Security Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;information-security-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#information-security-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Security framework aligned with &lt;strong&gt;ISO/IEC 27001&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Secure SDLC&lt;/strong&gt;, separated &lt;strong&gt;test&lt;/strong&gt; and &lt;strong&gt;production&lt;/strong&gt; environments.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CTO&lt;/strong&gt; holds overall responsibility for information security.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Regular penetration tests&lt;/strong&gt; and continuous monitoring.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Logging, Audit &amp;amp; Transparency&lt;span class="hx:absolute hx:-mt-20" id="logging-audit--transparency"&gt;&lt;/span&gt;
-&lt;a href="#logging-audit--transparency" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Logging, Audit &amp;amp; Transparency&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;logging-audit--transparency&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#logging-audit--transparency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Advanced logging&lt;/strong&gt; with configurable retention (e.g., &lt;strong&gt;30 / 90 days&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;Full visibility into &lt;strong&gt;what is sent to models&lt;/strong&gt; for maximum traceability.&lt;/li&gt;
 &lt;li&gt;Admins control logging settings.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Legal &amp;amp; Compliance&lt;span class="hx:absolute hx:-mt-20" id="legal--compliance"&gt;&lt;/span&gt;
-&lt;a href="#legal--compliance" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Legal &amp;amp; Compliance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;legal--compliance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#legal--compliance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Data Processing Agreement (DPA)&lt;/strong&gt; set up per &lt;strong&gt;Swedish Association of Local Authorities and Regions (SKR)&lt;/strong&gt; template.&lt;/li&gt;
 &lt;li&gt;Ensures &lt;strong&gt;GDPR compliance&lt;/strong&gt; and clear contractual responsibilities.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Data Retention Policies&lt;span class="hx:absolute hx:-mt-20" id="data-retention-policies"&gt;&lt;/span&gt;
-&lt;a href="#data-retention-policies" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Data Retention Policies&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-retention-policies&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-retention-policies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Admins can set &lt;strong&gt;per-assistant&lt;/strong&gt; retention:
 &lt;ul&gt;
 &lt;li&gt;Automatic deletion of messages after a defined period.&lt;/li&gt;
@@ -110,11 +147,17 @@ Use the &lt;strong&gt;same credentials&lt;/strong&gt; you use for your other org
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Recommended Practices&lt;span class="hx:absolute hx:-mt-20" id="recommended-practices"&gt;&lt;/span&gt;
-&lt;a href="#recommended-practices" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Recommended Practices&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;recommended-practices&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recommended-practices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;For sensitive data, use &lt;strong&gt;EU/Swedish models&lt;/strong&gt; (e.g., &lt;strong&gt;Llama 3.3 SWE&lt;/strong&gt;, &lt;strong&gt;Gemma 3 SWE&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;Define &lt;strong&gt;security classifications&lt;/strong&gt; and enforce via model allow-lists.&lt;/li&gt;
 &lt;li&gt;Use &lt;strong&gt;Spaces&lt;/strong&gt; to isolate projects/departments and data domains.&lt;/li&gt;
 &lt;li&gt;Enable &lt;strong&gt;appropriate logging&lt;/strong&gt; for auditability.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Educate users&lt;/strong&gt; on differences between EU and U.S. model options.&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

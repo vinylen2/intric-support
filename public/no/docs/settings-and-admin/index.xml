@@ -1,123 +1,179 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intric.ai Support – Admin og innstillinger</title><link>http://localhost:1313/no/docs/settings-and-admin/</link><description>Recent content in Admin og innstillinger on intric.ai Support</description><generator>Hugo -- gohugo.io</generator><language>no</language><atom:link href="http://localhost:1313/no/docs/settings-and-admin/index.xml" rel="self" type="application/rss+xml"/><item><title>Roller og tilganger</title><link>http://localhost:1313/no/docs/settings-and-admin/roles-and-permissions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/settings-and-admin/roles-and-permissions/</guid><description>
-&lt;h2&gt;Roller og tilganger&lt;span class="hx:absolute hx:-mt-20" id="roller-og-tilganger"&gt;&lt;/span&gt;
-&lt;a href="#roller-og-tilganger" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Oversikt&lt;span class="hx:absolute hx:-mt-20" id="oversikt"&gt;&lt;/span&gt;
-&lt;a href="#oversikt" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric bruker en &lt;strong&gt;rollebasert tilgangsmodell&lt;/strong&gt; både på &lt;strong&gt;organisasjonsnivå&lt;/strong&gt; og &lt;strong&gt;Space-nivå&lt;/strong&gt;.&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intric.ai Support – Admin og innstillinger</title>
+    <link>http://localhost:1313/no/docs/settings-and-admin/</link>
+    <description>Recent content in Admin og innstillinger on intric.ai Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language>
+    
+	  <atom:link href="http://localhost:1313/no/docs/settings-and-admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Roller og tilganger</title>
+      <link>http://localhost:1313/no/docs/settings-and-admin/roles-and-permissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/docs/settings-and-admin/roles-and-permissions/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Roller og tilganger&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roller-og-tilganger&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roller-og-tilganger&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Oversikt&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;oversikt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#oversikt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric bruker en &lt;strong&gt;rollebasert tilgangsmodell&lt;/strong&gt; både på &lt;strong&gt;organisasjonsnivå&lt;/strong&gt; og &lt;strong&gt;Space-nivå&lt;/strong&gt;.&lt;br&gt;
 Strukturen gir sikker, delegert kontroll samtidig som administrasjonen holdes enkel.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Roller på organisasjonsnivå&lt;span class="hx:absolute hx:-mt-20" id="roller-på-organisasjonsnivå"&gt;&lt;/span&gt;
-&lt;a href="#roller-p%c3%a5-organisasjonsniv%c3%a5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Rolle&lt;/th&gt;
-&lt;th&gt;Beskrivelse&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Admin&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Fullt administrative rettigheter. Administrerer alle brukere, systemkonfigurasjon og integrasjoner.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Creator&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Kan opprette egne &lt;strong&gt;Spaces&lt;/strong&gt;, administrere medlemmene der og tildele roller.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Kan kun bruke publiserte assistenter og verktøy i Spaces de er invitert til.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+&lt;h3&gt;Roller på organisasjonsnivå&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roller-på-organisasjonsnivå&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roller-p%c3%a5-organisasjonsniv%c3%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Rolle&lt;/th&gt;
+          &lt;th&gt;Beskrivelse&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Admin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Fullt administrative rettigheter. Administrerer alle brukere, systemkonfigurasjon og integrasjoner.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Creator&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan opprette egne &lt;strong&gt;Spaces&lt;/strong&gt;, administrere medlemmene der og tildele roller.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan kun bruke publiserte assistenter og verktøy i Spaces de er invitert til.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3&gt;Roller på Space-nivå&lt;span class="hx:absolute hx:-mt-20" id="roller-på-space-nivå"&gt;&lt;/span&gt;
-&lt;a href="#roller-p%c3%a5-space-niv%c3%a5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Rolle&lt;/th&gt;
-&lt;th&gt;Beskrivelse&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Space Admin&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Full kontroll over et Space, inkludert medlemsadministrasjon og sikkerhetsnivå.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Space Editor&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Kan koble til kunnskapskilder og lage assistenter.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Kan bare bruke publiserte assistenter i Space-et.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+&lt;h3&gt;Roller på Space-nivå&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roller-på-space-nivå&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roller-p%c3%a5-space-niv%c3%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Rolle&lt;/th&gt;
+          &lt;th&gt;Beskrivelse&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Admin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Full kontroll over et Space, inkludert medlemsadministrasjon og sikkerhetsnivå.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Editor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan koble til kunnskapskilder og lage assistenter.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan bare bruke publiserte assistenter i Space-et.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3&gt;Oppsummert&lt;span class="hx:absolute hx:-mt-20" id="oppsummert"&gt;&lt;/span&gt;
-&lt;a href="#oppsummert" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Roller på organisasjonsnivå bestemmer hva brukere kan gjøre globalt, mens Space-roller styrer hva de kan gjøre i et bestemt arbeidsområde.&lt;/p&gt;</description></item><item><title>Sikkerhet og modellstyring</title><link>http://localhost:1313/no/docs/settings-and-admin/security-and-model-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/settings-and-admin/security-and-model-management/</guid><description>
-&lt;h2&gt;Sikkerhet og modellstyring&lt;span class="hx:absolute hx:-mt-20" id="sikkerhet-og-modellstyring"&gt;&lt;/span&gt;
-&lt;a href="#sikkerhet-og-modellstyring" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Sikkerhetsklassifisering&lt;span class="hx:absolute hx:-mt-20" id="sikkerhetsklassifisering"&gt;&lt;/span&gt;
-&lt;a href="#sikkerhetsklassifisering" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratorer kan definere &lt;strong&gt;sikkerhetsklassifiseringsnivåer&lt;/strong&gt; (for eksempel &lt;em&gt;Høy sikkerhetsklassifisering&lt;/em&gt;) for å styre dataeksponering og modellbruk.&lt;/p&gt;
+&lt;h3&gt;Oppsummert&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;oppsummert&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#oppsummert&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Roller på organisasjonsnivå bestemmer hva brukere kan gjøre globalt, mens Space-roller styrer hva de kan gjøre i et bestemt arbeidsområde.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sikkerhet og modellstyring</title>
+      <link>http://localhost:1313/no/docs/settings-and-admin/security-and-model-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/docs/settings-and-admin/security-and-model-management/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Sikkerhet og modellstyring&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sikkerhet-og-modellstyring&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sikkerhet-og-modellstyring&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Sikkerhetsklassifisering&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sikkerhetsklassifisering&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sikkerhetsklassifisering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratorer kan definere &lt;strong&gt;sikkerhetsklassifiseringsnivåer&lt;/strong&gt; (for eksempel &lt;em&gt;Høy sikkerhetsklassifisering&lt;/em&gt;) for å styre dataeksponering og modellbruk.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hver klassifisering knyttes til bestemte AI-modeller som er godkjent for nivået.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Space Admins&lt;/strong&gt; velger deretter et klassifiseringsnivå i stedet for å velge modeller direkte.&lt;/li&gt;
 &lt;li&gt;Sikrer at modellbruken er i tråd med organisasjonens og myndighetenes krav.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Modellkontroll&lt;span class="hx:absolute hx:-mt-20" id="modellkontroll"&gt;&lt;/span&gt;
-&lt;a href="#modellkontroll" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratorer kan bestemme hvilke &lt;strong&gt;AI-modeller&lt;/strong&gt; som er aktive og tilgjengelige i hele organisasjonen.&lt;/p&gt;
+&lt;h3&gt;Modellkontroll&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;modellkontroll&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#modellkontroll&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratorer kan bestemme hvilke &lt;strong&gt;AI-modeller&lt;/strong&gt; som er aktive og tilgjengelige i hele organisasjonen.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Gir detaljert kontroll over hvilke modeller som kan behandle data.&lt;/li&gt;
 &lt;li&gt;Hjelper med å håndheve &lt;strong&gt;datasuverenitet&lt;/strong&gt; og &lt;strong&gt;regelverksetterlevelse&lt;/strong&gt; (EU vs. USA-modeller).&lt;/li&gt;
 &lt;li&gt;Administreres via &lt;strong&gt;Admin → Models&lt;/strong&gt; i grensesnittet.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Konfigurasjon av personlig assistent&lt;span class="hx:absolute hx:-mt-20" id="konfigurasjon-av-personlig-assistent"&gt;&lt;/span&gt;
-&lt;a href="#konfigurasjon-av-personlig-assistent" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under &lt;strong&gt;Admin → Personal Assistant&lt;/strong&gt; kan du:&lt;/p&gt;
+&lt;h3&gt;Konfigurasjon av personlig assistent&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;konfigurasjon-av-personlig-assistent&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#konfigurasjon-av-personlig-assistent&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under &lt;strong&gt;Admin → Personal Assistant&lt;/strong&gt; kan du:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Velge hvilke språkmodeller som skal være tilgjengelige for den personlige assistenten.&lt;/li&gt;
 &lt;li&gt;Styre hvilke verktøy og utvidelser som er aktivert som standard.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Databehandling og integrasjoner</title><link>http://localhost:1313/no/docs/settings-and-admin/data-and-integrations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/no/docs/settings-and-admin/data-and-integrations/</guid><description>
-&lt;h2&gt;Databehandling og integrasjoner&lt;span class="hx:absolute hx:-mt-20" id="databehandling-og-integrasjoner"&gt;&lt;/span&gt;
-&lt;a href="#databehandling-og-integrasjoner" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Aktivere integrasjoner&lt;span class="hx:absolute hx:-mt-20" id="aktivere-integrasjoner"&gt;&lt;/span&gt;
-&lt;a href="#aktivere-integrasjoner" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Enkelte integrasjoner må aktiveres av en &lt;strong&gt;Admin&lt;/strong&gt; før de kan tas i bruk.&lt;/p&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Databehandling og integrasjoner</title>
+      <link>http://localhost:1313/no/docs/settings-and-admin/data-and-integrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/docs/settings-and-admin/data-and-integrations/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Databehandling og integrasjoner&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;databehandling-og-integrasjoner&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#databehandling-og-integrasjoner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Aktivere integrasjoner&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;aktivere-integrasjoner&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aktivere-integrasjoner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Enkelte integrasjoner må aktiveres av en &lt;strong&gt;Admin&lt;/strong&gt; før de kan tas i bruk.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Gå til &lt;strong&gt;Admin → Integrations → Enable Integration&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Støttede integrasjoner inkluderer &lt;strong&gt;SharePoint&lt;/strong&gt;, &lt;strong&gt;Confluence&lt;/strong&gt; og flere.&lt;/li&gt;
 &lt;li&gt;Etter aktivering kobler hver bruker til sine egne påloggingsopplysninger.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Retningslinjer for datalagring&lt;span class="hx:absolute hx:-mt-20" id="retningslinjer-for-datalagring"&gt;&lt;/span&gt;
-&lt;a href="#retningslinjer-for-datalagring" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratorer kan konfigurere automatisk sletting av meldinger for etterlevelse og redusert lagringsbehov.&lt;/p&gt;
+&lt;h3&gt;Retningslinjer for datalagring&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;retningslinjer-for-datalagring&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#retningslinjer-for-datalagring&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratorer kan konfigurere automatisk sletting av meldinger for etterlevelse og redusert lagringsbehov.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sett beholdning per assistent i redigeringsvisning.&lt;/li&gt;
 &lt;li&gt;Bidrar til en sikker og GDPR-vennlig livssyklus for data.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Innsikt og overvåking&lt;span class="hx:absolute hx:-mt-20" id="innsikt-og-overvåking"&gt;&lt;/span&gt;
-&lt;a href="#innsikt-og-overv%c3%a5king" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Panelet &lt;strong&gt;Insights&lt;/strong&gt; gir oversikt over bruken av plattformen:&lt;/p&gt;
+&lt;h3&gt;Innsikt og overvåking&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;innsikt-og-overvåking&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#innsikt-og-overv%c3%a5king&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Panelet &lt;strong&gt;Insights&lt;/strong&gt; gir oversikt over bruken av plattformen:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bruksstatistikk:&lt;/strong&gt; Totalt antall samtaler og spørsmål i organisasjonen&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lagring:&lt;/strong&gt; Se plassforbruk under &lt;em&gt;Usage&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tokenforbruk:&lt;/strong&gt; Følg kostnader og forbruk per AI-modell&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Logging og sporbarhet&lt;span class="hx:absolute hx:-mt-20" id="logging-og-sporbarhet"&gt;&lt;/span&gt;
-&lt;a href="#logging-og-sporbarhet" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Logging og sporbarhet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;logging-og-sporbarhet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#logging-og-sporbarhet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Konfigurerbare loggperioder (f.eks. 30 eller 90 dager).&lt;/li&gt;
 &lt;li&gt;Full transparens i hva som sendes til modellene.&lt;/li&gt;
 &lt;li&gt;Gir ende-til-ende-sporbarhet og revisjonsmulighet.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Widget-håndtering&lt;span class="hx:absolute hx:-mt-20" id="widget-håndtering"&gt;&lt;/span&gt;
-&lt;a href="#widget-h%c3%a5ndtering" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Widget-håndtering&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;widget-håndtering&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#widget-h%c3%a5ndtering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Kun &lt;strong&gt;Admins&lt;/strong&gt; kan opprette eller distribuere widgets for å sikre trygg innbygging.&lt;/li&gt;
 &lt;li&gt;Hindrer utilsiktet eksponering av sensitiv data.&lt;/li&gt;
-&lt;li&gt;Kontakt &lt;strong&gt;&lt;a href="mailto:support@intric.ai"&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt; for å oppdatere tillatte domener.&lt;/li&gt;
+&lt;li&gt;Kontakt &lt;strong&gt;&lt;a href=&#34;mailto:support@intric.ai&#34;&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt; for å oppdatere tillatte domener.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Tekniske innstillinger og gruppeintegrasjoner&lt;span class="hx:absolute hx:-mt-20" id="tekniske-innstillinger-og-gruppeintegrasjoner"&gt;&lt;/span&gt;
-&lt;a href="#tekniske-innstillinger-og-gruppeintegrasjoner" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Tekniske innstillinger og gruppeintegrasjoner&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tekniske-innstillinger-og-gruppeintegrasjoner&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tekniske-innstillinger-og-gruppeintegrasjoner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Administrer tilgang via eksisterende &lt;strong&gt;AD- eller brukergrupper&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Tildel Space-tilgang automatisk basert på gruppemedlemskap.&lt;/li&gt;
-&lt;li&gt;For hjelp med oppsett, ta kontakt med &lt;strong&gt;&lt;a href="mailto:support@intric.ai"&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;li&gt;For hjelp med oppsett, ta kontakt med &lt;strong&gt;&lt;a href=&#34;mailto:support@intric.ai&#34;&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
