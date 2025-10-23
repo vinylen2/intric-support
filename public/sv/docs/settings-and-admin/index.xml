@@ -1,0 +1,179 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intric.ai Support – Admin och inställningar</title>
+    <link>http://localhost:1313/sv/docs/settings-and-admin/</link>
+    <description>Recent content in Admin och inställningar on intric.ai Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    
+	  <atom:link href="http://localhost:1313/sv/docs/settings-and-admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Roller och behörigheter</title>
+      <link>http://localhost:1313/sv/docs/settings-and-admin/roles-and-permissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/settings-and-admin/roles-and-permissions/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Roller och behörigheter&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roller-och-behörigheter&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roller-och-beh%c3%b6righeter&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Översikt&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;översikt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%b6versikt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric använder ett &lt;strong&gt;rollbaserat åtkomstsystem&lt;/strong&gt; både på &lt;strong&gt;organisationsnivå&lt;/strong&gt; och &lt;strong&gt;Space-nivå&lt;/strong&gt;.&lt;br&gt;
+Detta ger säker, delegerad kontroll samtidigt som administrationen hålls enkel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Roller på organisationsnivå&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roller-på-organisationsnivå&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roller-p%c3%a5-organisationsniv%c3%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Roll&lt;/th&gt;
+          &lt;th&gt;Beskrivning&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Admin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Fullständiga administrativa rättigheter. Hanterar alla användare, systemkonfiguration och integrationer.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Creator&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan skapa egna &lt;strong&gt;Spaces&lt;/strong&gt;, hantera medlemmar där och tilldela roller.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan endast använda publicerade assistenter och verktyg i Spaces de har blivit inbjudna till.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3&gt;Roller på Space-nivå&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;roller-på-space-nivå&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#roller-p%c3%a5-space-niv%c3%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Roll&lt;/th&gt;
+          &lt;th&gt;Beskrivning&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Admin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Full kontroll över ett specifikt Space, inklusive medlems- och säkerhetshantering.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Editor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan koppla kunskapskällor och skapa assistenter.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Kan bara använda publicerade assistenter i det Spacet.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3&gt;Sammanfattning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sammanfattning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sammanfattning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Roller på organisationsnivå styr vad användare kan göra globalt, medan Space-roller styr vad de kan göra i en specifik arbetsyta.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Säkerhet och modellhantering</title>
+      <link>http://localhost:1313/sv/docs/settings-and-admin/security-and-model-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/settings-and-admin/security-and-model-management/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Säkerhet och modellhantering&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;säkerhet-och-modellhantering&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#s%c3%a4kerhet-och-modellhantering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Säkerhetsklassning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;säkerhetsklassning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#s%c3%a4kerhetsklassning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratörer kan definiera &lt;strong&gt;säkerhetsklassningsnivåer&lt;/strong&gt; (t.ex. &lt;em&gt;Hög säkerhetsklassning&lt;/em&gt;) för att styra dataexponering och modellanvändning.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Varje klassning kopplas till specifika AI-modeller som är tillåtna för nivån.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space Admins&lt;/strong&gt; väljer därefter klassningsnivå istället för att välja modeller direkt.&lt;/li&gt;
+&lt;li&gt;Säkerställer att modellval följer organisatoriska och regulatoriska krav.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Kontroll över modeller&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;kontroll-över-modeller&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kontroll-%c3%b6ver-modeller&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Admins kan konfigurera vilka &lt;strong&gt;AI-modeller&lt;/strong&gt; som är aktiva och tillgängliga i organisationen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ger detaljstyrning över vilka modeller som får behandla data.&lt;/li&gt;
+&lt;li&gt;Hjälper till att upprätthålla &lt;strong&gt;datalokalitet&lt;/strong&gt; och &lt;strong&gt;regelefterlevnad&lt;/strong&gt; (EU kontra USA-modeller).&lt;/li&gt;
+&lt;li&gt;Hanteras via &lt;strong&gt;Admin → Models&lt;/strong&gt; i gränssnittet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Konfiguration av personlig assistent&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;konfiguration-av-personlig-assistent&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#konfiguration-av-personlig-assistent&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under &lt;strong&gt;Admin → Personal Assistant&lt;/strong&gt; kan du:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Välja vilka språkmodeller som ska vara tillgängliga för den personliga assistenten.&lt;/li&gt;
+&lt;li&gt;Styra vilka verktyg och tillägg som ska vara aktiverade som standard.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Datahantering och integrationer</title>
+      <link>http://localhost:1313/sv/docs/settings-and-admin/data-and-integrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/settings-and-admin/data-and-integrations/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Datahantering och integrationer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;datahantering-och-integrationer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datahantering-och-integrationer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Aktivera integrationer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;aktivera-integrationer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aktivera-integrationer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Vissa integrationer måste aktiveras av en &lt;strong&gt;Admin&lt;/strong&gt; innan de kan användas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gå till &lt;strong&gt;Admin → Integrations → Enable Integration&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Stödda integrationer omfattar &lt;strong&gt;SharePoint&lt;/strong&gt;, &lt;strong&gt;Confluence&lt;/strong&gt; med flera.&lt;/li&gt;
+&lt;li&gt;Enskilda användare kopplar därefter sina egna behörigheter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Policy för datalagring&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;policy-för-datalagring&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#policy-f%c3%b6r-datalagring&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Administratörer kan konfigurera automatisk borttagning av meddelanden för efterlevnad och lagringskontroll.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ange lagringstid per assistent i redigeringsläget.&lt;/li&gt;
+&lt;li&gt;Hjälper till att upprätthålla en säker och GDPR-kompatibel datahantering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Insights och övervakning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;insights-och-övervakning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#insights-och-%c3%b6vervakning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Panelen &lt;strong&gt;Insights&lt;/strong&gt; ger insyn i hur plattformen används:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Användningsstatistik:&lt;/strong&gt; Totalt antal konversationer och frågor i organisationen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagringsuppföljning:&lt;/strong&gt; Se utnyttjad yta under &lt;em&gt;Usage&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tokenförbrukning:&lt;/strong&gt; Följ kostnader och användning mellan olika AI-modeller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Loggning och spårbarhet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;loggning-och-spårbarhet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#loggning-och-sp%c3%a5rbarhet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Konfigurerbara lagringstider för loggar (t.ex. 30 eller 90 dagar).&lt;/li&gt;
+&lt;li&gt;Full transparens över vilken data som skickas till modellerna.&lt;/li&gt;
+&lt;li&gt;Möjliggör heltäckande spårbarhet och revision.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Hantering av widgetar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hantering-av-widgetar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hantering-av-widgetar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Endast &lt;strong&gt;Admins&lt;/strong&gt; kan skapa eller distribuera widgetar för att säkerställa säker inbäddning.&lt;/li&gt;
+&lt;li&gt;Förhindrar oavsiktlig exponering av känslig information.&lt;/li&gt;
+&lt;li&gt;För att uppdatera tillåtna domäner, kontakta &lt;strong&gt;&lt;a href=&#34;mailto:support@intric.ai&#34;&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Tekniska inställningar och gruppintegrationer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tekniska-inställningar-och-gruppintegrationer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tekniska-inst%c3%a4llningar-och-gruppintegrationer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Hantera åtkomst via befintliga &lt;strong&gt;AD- eller användargrupper&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Tilldela Space-åtkomst automatiskt baserat på gruppmedlemskap.&lt;/li&gt;
+&lt;li&gt;För konfigurationsstöd, kontakta &lt;strong&gt;&lt;a href=&#34;mailto:support@intric.ai&#34;&gt;support@intric.ai&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

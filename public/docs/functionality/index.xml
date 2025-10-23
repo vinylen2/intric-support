@@ -1,0 +1,119 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intric.ai Support – Core Features in Intric</title>
+    <link>http://localhost:1313/docs/functionality/</link>
+    <description>Recent content in Core Features in Intric on intric.ai Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/functionality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>AI Assistants</title>
+      <link>http://localhost:1313/docs/functionality/ai-assistants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/ai-assistants/</guid>
+      <description>
+        
+        
+        &lt;p&gt;AI Assistants are the core of Intric — customizable AI tools with a chat interface that allow users to interact with organisational knowledge and workflows.&lt;/p&gt;
+&lt;h3&gt;What You Can Do&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-you-can-do&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-you-can-do&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Ask questions and get accurate answers based on your organisation’s own data&lt;/li&gt;
+&lt;li&gt;Customise assistants for specific use cases such as &lt;strong&gt;legal&lt;/strong&gt;, &lt;strong&gt;HR&lt;/strong&gt;, or &lt;strong&gt;communications&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Integrate internal knowledge sources via &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Components That Define an Assistant&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;components-that-define-an-assistant&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#components-that-define-an-assistant&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Language Model:&lt;/strong&gt; Choose from multiple AI models — EU-based, Swedish, or U.S.-based&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; The instruction set that defines how the assistant behaves&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Knowledge:&lt;/strong&gt; The content and data sources the assistant uses to respond&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>http://localhost:1313/docs/functionality/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/apps/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Apps&lt;/strong&gt; are specialised tools in Intric designed for clearly defined processes and tasks.&lt;/p&gt;
+&lt;h3&gt;Common Use Cases&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;common-use-cases&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#common-use-cases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transcribing&lt;/strong&gt; meetings, interviews, or audio files&lt;/li&gt;
+&lt;li&gt;Generating structured outputs from predefined inputs&lt;/li&gt;
+&lt;li&gt;Running repetitive or data-intensive tasks efficiently&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Key Characteristics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-characteristics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-characteristics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Built on the same core components as assistants&lt;/li&gt;
+&lt;li&gt;Optimised for &lt;strong&gt;single-purpose workflows&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Easy to deploy and share across teams&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Knowledge Management</title>
+      <link>http://localhost:1313/docs/functionality/knowledge-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/knowledge-management/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Knowledge&lt;/strong&gt; section lets you integrate, structure, and maintain the data that powers your assistants.&lt;/p&gt;
+&lt;h3&gt;Ways to Add Knowledge&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ways-to-add-knowledge&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ways-to-add-knowledge&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Collections:&lt;/strong&gt; Upload and organise documents, spreadsheets, and presentations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Pages:&lt;/strong&gt; Connect websites and automatically crawl their content&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Connect directly to systems like &lt;strong&gt;SharePoint&lt;/strong&gt;, &lt;strong&gt;Confluence&lt;/strong&gt;, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How It Works&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-it-works&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-it-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric uses &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; — meaning the system searches semantically across all connected sources to find relevant information before generating a response.&lt;br&gt;
+This ensures answers are accurate, contextual, and based on your own trusted data.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/docs/functionality/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/functionality/collaboration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Intric is designed for teamwork — enabling secure, role-based collaboration through &lt;strong&gt;Spaces&lt;/strong&gt; and shared templates.&lt;/p&gt;
+&lt;h3&gt;Spaces (Workspaces)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;spaces-workspaces&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#spaces-workspaces&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Collaborative environments for teams to manage assistants and knowledge&lt;/li&gt;
+&lt;li&gt;Role-based access: &lt;strong&gt;Space Admin&lt;/strong&gt;, &lt;strong&gt;Space Editor&lt;/strong&gt;, &lt;strong&gt;Space Viewer&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Organise by team, project, or function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sharing and Templates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sharing-and-templates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sharing-and-templates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Share assistants across different departments or organisations&lt;/li&gt;
+&lt;li&gt;Use pre-built templates for common public sector and enterprise use cases&lt;/li&gt;
+&lt;li&gt;Create your own templates to standardise best practices&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

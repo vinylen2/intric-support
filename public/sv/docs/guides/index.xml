@@ -1,0 +1,339 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intric.ai Support – Guider</title>
+    <link>http://localhost:1313/sv/docs/guides/</link>
+    <description>Recent content in Guider on intric.ai Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    
+	  <atom:link href="http://localhost:1313/sv/docs/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Så lägger du till kunskap i ett Space</title>
+      <link>http://localhost:1313/sv/docs/guides/add-knowledge-to-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/add-knowledge-to-space/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Förutsättningar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;förutsättningar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#f%c3%b6ruts%c3%a4ttningar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;För att lägga till kunskap i ett Space behöver du rollen &lt;strong&gt;Space Admin&lt;/strong&gt; eller &lt;strong&gt;Space Editor&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Space Viewers&lt;/strong&gt; kan bara använda befintliga assistenter och kan inte koppla nya kunskapskällor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Tre sätt att lägga till kunskap&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tre-sätt-att-lägga-till-kunskap&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tre-s%c3%a4tt-att-l%c3%a4gga-till-kunskap&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. Samlingar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-samlingar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-samlingar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Gå till &lt;strong&gt;Kunskap&lt;/strong&gt; i vänstermenyn.&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Collections&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Välj &lt;strong&gt;Create Collection&lt;/strong&gt; och välj en text-embeddingmodell.&lt;/li&gt;
+&lt;li&gt;Ladda upp dokument, kalkylblad eller skriv in text direkt.&lt;/li&gt;
+&lt;li&gt;Stödda format: &lt;strong&gt;PDF&lt;/strong&gt;, &lt;strong&gt;Word (.docx)&lt;/strong&gt;, &lt;strong&gt;Excel (.xlsx)&lt;/strong&gt;, &lt;strong&gt;PowerPoint (.pptx)&lt;/strong&gt;, &lt;strong&gt;CSV&lt;/strong&gt;, &lt;strong&gt;Markdown (.md)&lt;/strong&gt; och &lt;strong&gt;textfiler (.txt)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Organisera filer i strukturerade mappar för enkel åtkomst.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4&gt;2. Webbsidor&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-webbsidor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-webbsidor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Gå till &lt;strong&gt;Knowledge → Web Pages&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Connect Web Pages&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Klistra in URL:en till webbplatsen du vill koppla.&lt;/li&gt;
+&lt;li&gt;Välj vilken typ av crawl som ska användas:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Basic Crawl:&lt;/strong&gt; Följer länkar från startsidan (bra för sajter utan sitemap).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sitemap Crawl:&lt;/strong&gt; Använder sajtens &lt;code&gt;sitemap.xml&lt;/code&gt; (snabbare och mer kontrollerat).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Välj embeddingmodell och uppdateringsfrekvens.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Tips:&lt;/strong&gt; Var specifik med dina URL:er – koppla hellre subdomäner eller sidor med relevant information än hela webbplatser.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;3. Integrationer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-integrationer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-integrationer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Integrationerna &lt;strong&gt;SharePoint&lt;/strong&gt; och &lt;strong&gt;Confluence&lt;/strong&gt; måste först aktiveras av en admin.&lt;/li&gt;
+&lt;li&gt;Gå som användare till &lt;strong&gt;Settings → My Account → My Integration → Connect&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Koppla dina åtkomstuppgifter för respektive tjänst.&lt;/li&gt;
+&lt;li&gt;Navigera till &lt;strong&gt;Knowledge → Integrations&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Import Knowledge&lt;/strong&gt; och välj vilken kunskapsbas som ska kopplas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3&gt;Koppla kunskap till en assistent&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;koppla-kunskap-till-en-assistent&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#koppla-kunskap-till-en-assistent&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;När du lagt till kunskap i ditt Space:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Öppna assistenten som ska använda kunskapen.&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Edit&lt;/strong&gt; (uppe till höger).&lt;/li&gt;
+&lt;li&gt;Välj &lt;strong&gt;Add Knowledge&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Ange vilken kunskapskälla från ditt Space assistenten ska använda.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3&gt;Om RAG-teknik&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;om-rag-teknik&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#om-rag-teknik&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intric använder &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; för att göra semantiska sökningar i dina anslutna kunskapskällor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;När en fråga ställs letar systemet automatiskt fram de mest relevanta textavsnitten.&lt;/li&gt;
+&lt;li&gt;Endast dessa relevanta utdrag skickas till språkmodellen – aldrig hela dokument.&lt;/li&gt;
+&lt;li&gt;All kunskap lagras i en &lt;strong&gt;vektordatabas (PGVector)&lt;/strong&gt; för snabb och effektiv hämtning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Filstorlekar och begränsningar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;filstorlekar-och-begränsningar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#filstorlekar-och-begr%c3%a4nsningar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Typ&lt;/th&gt;
+          &lt;th&gt;Maxstorlek&lt;/th&gt;
+          &lt;th&gt;Kommentar&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Textbaserade filer&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Stöder: PDF, Word, Excel, PowerPoint, CSV, Markdown, text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ljud / Video&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;200 MB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;För transkribering och analys&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bilder&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;20 MB&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;För referenser eller dokumentation&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sätt säkerhetsklassning</title>
+      <link>http://localhost:1313/sv/docs/guides/set-security-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/set-security-classification/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Steg 1: Skapa en säkerhetsklassning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-1-skapa-en-säkerhetsklassning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-1-skapa-en-s%c3%a4kerhetsklassning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Admin&lt;/strong&gt; (uppe till höger).&lt;/li&gt;
+&lt;li&gt;Öppna &lt;strong&gt;Security Settings&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Skapa klassningsnivåer (t.ex. &lt;em&gt;Hög säkerhetsklassning&lt;/em&gt;, &lt;em&gt;Standardklassning&lt;/em&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 2: Koppla AI-modeller&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-2-koppla-ai-modeller&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-2-koppla-ai-modeller&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Gå till &lt;strong&gt;Models&lt;/strong&gt; (vänstermenyn).&lt;/li&gt;
+&lt;li&gt;Ange vilka modeller som hör till varje klassning.
+&lt;ul&gt;
+&lt;li&gt;Exempel: &lt;em&gt;Hög säkerhet&lt;/em&gt; → endast svenska/EU-modeller som &lt;strong&gt;Llama 3.3 SWE&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spara inställningarna.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 3: Tilldela ett Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-3-tilldela-ett-space&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-3-tilldela-ett-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;I varje Space väljer &lt;strong&gt;Space Admin&lt;/strong&gt; rätt klassning.&lt;/li&gt;
+&lt;li&gt;Användare i det Spacet kan bara välja modeller som är tillåtna för klassningen.&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bygg en assistent – fokusera på prompten</title>
+      <link>http://localhost:1313/sv/docs/guides/build-assistant-prompt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/build-assistant-prompt/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Steg 1: Skapa en assistent&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-1-skapa-en-assistent&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-1-skapa-en-assistent&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Gå till &lt;strong&gt;Assistants&lt;/strong&gt; (vänstermenyn).&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Create Assistant&lt;/strong&gt; (blå knapp uppe till höger).&lt;/li&gt;
+&lt;li&gt;Välj en mall eller &lt;strong&gt;Build from scratch&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 2: Grundkonfiguration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-2-grundkonfiguration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-2-grundkonfiguration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Namnge assistenten.&lt;/li&gt;
+&lt;li&gt;Välj språkmodell (utifrån användningsfall och säkerhetsklassning).&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Create&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 3: Skriv en effektiv prompt&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-3-skriv-en-effektiv-prompt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-3-skriv-en-effektiv-prompt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Använd den här strukturen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vad?&lt;/strong&gt; Beskriv uppgiften och omfånget tydligt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vem?&lt;/strong&gt; Definiera assistentens roll (t.ex. &amp;ldquo;Du är en HR-specialist&amp;hellip;&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hur?&lt;/strong&gt; Ange önskat format och struktur på svaret.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Varför?&lt;/strong&gt; Ge bakgrund/kontext och syfte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tonalitet?&lt;/strong&gt; Sätt stilnivå (formellt, vänligt, tekniskt osv.).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Exempelprompt&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Du är en HR-specialist som hjälper medarbetare med HR-relaterade frågor.&lt;br&gt;
+Svara alltid professionellt och hänvisa till våra policydokument när det är relevant.&lt;br&gt;
+Strukturera svaren med tydliga rubriker och punktlistor.&lt;br&gt;
+Om du saknar information, be användaren kontakta HR-avdelningen.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;h3&gt;Steg 4: Testa och iterera&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-4-testa-och-iterera&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-4-testa-och-iterera&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Ställ varierade frågor.&lt;/li&gt;
+&lt;li&gt;Gå tillbaka till &lt;strong&gt;Edit&lt;/strong&gt; och justera prompten.&lt;/li&gt;
+&lt;li&gt;Upprepa tills svaren motsvarar förväntningarna.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lägg till kunskap i en assistent</title>
+      <link>http://localhost:1313/sv/docs/guides/add-knowledge-to-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/add-knowledge-to-assistant/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Steg 1: Förbered kunskap i ditt Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-1-förbered-kunskap-i-ditt-space&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-1-f%c3%b6rbered-kunskap-i-ditt-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Välj en eller flera metoder under &lt;strong&gt;Kunskap&lt;/strong&gt; (vänstermenyn):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Samlingar:&lt;/strong&gt; Ladda upp dokument/kalkylblad/presentationer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Webbsidor:&lt;/strong&gt; Koppla webbplatser (grundläggande crawl eller sitemap-crawl).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrationer:&lt;/strong&gt; Koppla &lt;strong&gt;SharePoint&lt;/strong&gt; / &lt;strong&gt;Confluence&lt;/strong&gt; (måste först aktiveras av admin).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Steg 2: Koppla kunskapen till assistenten&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-2-koppla-kunskapen-till-assistenten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-2-koppla-kunskapen-till-assistenten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Öppna assistenten → &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Add Knowledge&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Välj relevanta kunskapskällor från ditt Space.&lt;/li&gt;
+&lt;li&gt;Spara.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 3: Testa kopplingen&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-3-testa-kopplingen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-3-testa-kopplingen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Ställ frågor som kräver den uppladdade kunskapen.&lt;/li&gt;
+&lt;li&gt;Kontrollera att källor citeras korrekt.&lt;/li&gt;
+&lt;li&gt;Justera källor eller inställningar vid behov.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Om RAG&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;om-rag&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#om-rag&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Intric använder &lt;strong&gt;RAG (Retrieval-Augmented Generation)&lt;/strong&gt; för att göra semantiska sökningar i din kunskap.&lt;br&gt;
+Endast de mest relevanta textstyckena skickas till modellen (inte hela dokument); data lagras i en vektordatabas (&lt;strong&gt;PGVector&lt;/strong&gt;) för snabb åtkomst.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dela en assistent</title>
+      <link>http://localhost:1313/sv/docs/guides/share-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/share-assistant/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Steg 1: Skapa en delningslänk&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-1-skapa-en-delningslänk&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-1-skapa-en-delningsl%c3%a4nk&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Öppna assistenten du vill dela.&lt;/li&gt;
+&lt;li&gt;Klicka på ikonen &lt;strong&gt;Share&lt;/strong&gt; (uppe till höger).&lt;/li&gt;
+&lt;li&gt;Välj &lt;strong&gt;Create share link&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Kopiera länken (och eventuell kod som visas).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 2: Skicka till mottagaren&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-2-skicka-till-mottagaren&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-2-skicka-till-mottagaren&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Skicka länken till mottagaren.&lt;/li&gt;
+&lt;li&gt;Mottagaren öppnar länken och kopierar delningskoden som visas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Steg 3: Import (mottagaren)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-3-import-mottagaren&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-3-import-mottagaren&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;I sitt Space klickar mottagaren på pilen bredvid &lt;strong&gt;Create Assistant&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Välj &lt;strong&gt;Import Assistant&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Klistra in delningskoden.&lt;/li&gt;
+&lt;li&gt;Assistenten (namn och prompt) importeras.&lt;br&gt;
+&lt;em&gt;Observera: kunskap och bilagor följer &lt;strong&gt;inte&lt;/strong&gt; med.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Skapa och hantera Spaces</title>
+      <link>http://localhost:1313/sv/docs/guides/create-and-manage-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/create-and-manage-spaces/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Steg 1: Skapa ett Space&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-1-skapa-ett-space&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-1-skapa-ett-space&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Öppna &lt;strong&gt;Spaces&lt;/strong&gt; (övre menyn).&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Create Space&lt;/strong&gt; (blå knapp).&lt;/li&gt;
+&lt;li&gt;Namnge och beskriv Spacet.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 2: Bjud in medlemmar&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-2-bjud-in-medlemmar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-2-bjud-in-medlemmar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Gå till &lt;strong&gt;Members&lt;/strong&gt; (vänstermenyn i Spacet).&lt;/li&gt;
+&lt;li&gt;Klicka på &lt;strong&gt;Invite users&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Tilldela roller:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Space Admin:&lt;/strong&gt; Full kontroll (medlemmar, säkerhetsnivå).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space Editor:&lt;/strong&gt; Kan skapa assistenter och koppla kunskap.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space Viewer:&lt;/strong&gt; Kan endast använda publicerade assistenter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 3: Organisera assistenter&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-3-organisera-assistenter&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-3-organisera-assistenter&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Skapa assistenter inne i Spacet.&lt;/li&gt;
+&lt;li&gt;Flytta assistenter mellan Spaces (tre prickar → &lt;strong&gt;Move&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publicera&lt;/strong&gt; assistenter för att göra dem tillgängliga för Space Viewers.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Aktivera verktyg (extra funktioner)</title>
+      <link>http://localhost:1313/sv/docs/guides/activate-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sv/docs/guides/activate-tools/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Steg 1: Kontrollera modellens kompatibilitet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-1-kontrollera-modellens-kompatibilitet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-1-kontrollera-modellens-kompatibilitet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Säkerställ att den valda modellen stödjer verktyg.&lt;/li&gt;
+&lt;li&gt;Modeller som &lt;strong&gt;GPT-4&lt;/strong&gt;, &lt;strong&gt;Claude&lt;/strong&gt; och &lt;strong&gt;Mistral&lt;/strong&gt; har i regel verktygsstöd.&lt;/li&gt;
+&lt;li&gt;Många öppen källkod-modeller (t.ex. vissa &lt;strong&gt;Llama&lt;/strong&gt;-varianter) saknar stöd för verktyg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Steg 2: Aktivera verktyg på assistenten&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-2-aktivera-verktyg-på-assistenten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-2-aktivera-verktyg-p%c3%a5-assistenten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Öppna assistenten → &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Skrolla till &lt;strong&gt;Additional Capabilities&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Slå på önskade verktyg, exempelvis:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bildgenerering:&lt;/strong&gt; Skapa bilder från beskrivningar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Webbsök:&lt;/strong&gt; Hämta uppdaterad information från internet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SCB:&lt;/strong&gt; Fråga efter data från Statistiska centralbyrån.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kolada:&lt;/strong&gt; Hämta kommunala nyckeltal från Kolada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Steg 3: Testa funktionen&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;steg-3-testa-funktionen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#steg-3-testa-funktionen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Prova varje aktiverat verktyg med en enkel uppgift.&lt;/li&gt;
+&lt;li&gt;Kom ihåg att verktyg kan påverka svarstid och kostnad.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+local_backend: true
+
+backend:
+  name: git-gateway   # or "github" later when you host
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+# Reuse this enum for all three languages
+# The value maps to the subfolder name
+category_options: &category_options
+  - { label: "Getting started",   value: "getting-started" }
+  - { label: "Account & billing", value: "account-billing" }
+  - { label: "Troubleshooting",   value: "troubleshooting" }
+
+collections:
+  # English content pages
+  - name: "pages_en"
+    label: "Pages (EN)"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/en/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About"
+        name: "about"
+        file: "content/en/about/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Docs Landing"
+        name: "docs_landing"
+        file: "content/en/docs/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string", required: false }
+          - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact"
+        name: "contact"
+        file: "content/en/contact/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "english_docs"
+    label: "English › Docs"
+    folder: "content/en/docs"
+    create: true
+    slug: "{{slug}}"
+    path: "{{nested.path}}"
+    nested:
+      depth: 8
+      summary: "{{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Swedish content
+  - name: "swedish_pages"
+    label: "Swedish › Pages"
+    files:
+      - label: "Home (SV)"
+        name: "home_sv"
+        file: "content/sv/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Docs Landing (SV)"
+        name: "docs_landing_sv"
+        file: "content/sv/docs/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string", required: false }
+          - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "swedish_docs"
+    label: "Swedish › Docs"
+    folder: "content/sv/docs"
+    create: true
+    slug: "{{slug}}"
+    path: "{{nested.path}}"
+    nested:
+      depth: 8
+      summary: "{{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Swedish support
+  - name: "support_sv"
+    label: "Swedish › Support"
+    label_singular: "Artikel (SV)"
+    folder: "content/sv/support"
+    create: true
+    path: "{{category}}/{{slug}}"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Sammanfattning", name: "summary", widget: "string", required: false }
+      - { label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", required: false }
+      - { label: "Vikt", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
+      - { label: "Översättningsnyckel", name: "translationKey", widget: "string", required: false }
+      - { label: "Kategori", name: "category", widget: "select", options: *category_options }
+      - { label: "Innehåll", name: "body", widget: "markdown" }
+
+  # Norwegian support
+  - name: "support_no"
+    label: "Norwegian › Support"
+    label_singular: "Artikkel (NO)"
+    folder: "content/no/support"
+    create: true
+    path: "{{category}}/{{slug}}"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Tittel", name: "title", widget: "string" }
+      - { label: "Sammendrag", name: "summary", widget: "string", required: false }
+      - { label: "Dato", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", required: false }
+      - { label: "Vekt", name: "weight", widget: "number", value_type: "int", min: 0, required: false }
+      - { label: "Oversettelsesnøkkel", name: "translationKey", widget: "string", required: false }
+      - { label: "Kategori", name: "category", widget: "select", options: *category_options }
+      - { label: "Innhold", name: "body", widget: "markdown" }

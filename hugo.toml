@@ -1,0 +1,56 @@
+baseURL = "http://localhost:1313/"
+title = "intric.ai Support"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[module]
+  [[module.imports]]
+    path = "github.com/imfing/hextra"
+
+[params]
+  customCSS = ["css/custom.css"]
+
+[params.search]
+  enable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[languages]
+  [languages.en]
+  contentDir = "content/en"
+  languageName = "English"
+  weight = 1
+
+  [languages.sv]
+  contentDir = "content/sv"
+  languageName = "Svenska"
+  weight = 2
+
+  [languages.no]
+  contentDir = "content/no"
+  languageName = "Norsk"
+  weight = 3
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# Header (navbar) links — use the "main" menu
+[languages.en.menu]
+  [[languages.en.menu.main]]
+  name = "Documentation"
+  url  = "/docs/"
+  weight = 10
+
+  [[languages.en.menu.main]]
+  name = "About"
+  url  = "/about/"
+  weight = 20
+
+  [[languages.en.menu.main]]
+  name = "Contact"
+  url  = "/contact/"
+  weight = 30
